@@ -8,7 +8,7 @@ FAC, la plataforma de viajes comprometida con mejorar tu mundo.
 1. [Síntesis](#1-síntesis)  
 2. [Índice](#2-índice)  
 3. [Introducción](#3-introducción)  
-4. [Equipo y socios](#4-equipo-y-socios)  
+4. [Equipo](#4-equipo) 
 5. [Producto + Mercado](#5-producto--mercado)  
 6. [Modelo de negocios](#6-modelo-de-negocios)  
 7. [Economía del token](#7-economía-del-token)  
