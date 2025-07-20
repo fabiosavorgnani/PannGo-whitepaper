@@ -67,7 +67,8 @@ FAC es la primera plataforma turística colaborativa que convierte gear infrauti
 ---
 
 ## 7. Economía del Token  
-_(Sección intacta)_  
+### 7.(d) diagrama de Tokenomics![Tokenomics Diagram](diagramatokenomics.png)
+
 
 ### 7.1. Token $TRVL: Utilidad con Propósito  
 El token $TRVL es el combustible del ecosistema FAC. Su función principal es operar como depósito de garantía, medio de reputación y herramienta de redistribución de valor.
@@ -134,7 +135,6 @@ Holders de $TRVL votan propuestas de mejora, nuevos roles, cambios en comisiones
 - Integración con DeFi: farming, staking, pools de liquidez  
 - Utilidad real desde el MVP  
 
-![Tokenomics Diagram](diagramatokenomics.png)
 
 ---
 
