@@ -287,7 +287,7 @@ El token $TRVL permitirá a los holders participar en decisiones clave mediante 
 
 ### 7.8. Futuro del token $TRVL
 - Token sostenible, con utilidad creciente
-- Base para expansión futura hacia más nichos: arte, deportes, movilidad
+- Base para expansión futura hacia más nichos: artesanias, movilidad, etc.
 - Vinculación con productos DeFi y nuevos modelos de tokenización
 ---
 
