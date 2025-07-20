@@ -24,15 +24,33 @@ El Máster en Tokenización de Tutellus impulsa la versión **MVP**:
 
 ---
 
-## 4. Equipo y socios
-| Nombre / Rol | “Superpoder” | Logros clave |
-|--------------|--------------|--------------|
-| **Fabio de Savorgnani — CEO** | Visión emprendedora desde los 14 años | Fundó pizzería *Don Tino* (14 a), sala gaming (16 a), dirigió **TTE** y **G7 Gráfico** |
-| Josué González | Ventas & Growth | +US $30 M gestionados en hospitality |
-| Héctor Salinas | Hardware/Drone wizard | Plataformas Ford, Toyota, IBM |
-| Leonardo Villalobos | Nube & Data | Senior Support Engineer en NetApp |
-| Gabriel Moran | Branding | 40 + marcas globales |
+## 4. Equipo
 
+### 4.1 CEO
+
+| Nombre | Formación | Trayectoria | Logros clave |
+|--------|-----------|-------------|--------------|
+| **Fabio de Savorgnani** | • Ingeniería Telemática (TTE)  <br>• Especialista en Estrategia y Branding (G7 Gráfico) | 20 años lanzando y dirigiendo empresas de tecnología e imagen.  <br>Primer emprendimiento a los **14 años**: pizzería *Don Tino*.  <br>A los **16 años** montó una sala de videojuegos “sin consolas” (modelo de participación en utilidades). | • Fundó **TTE** (Telemática y Tecnología Especializada).  <br>• Fundó **G7 Gráfico** (agencia de branding, 12 años).  <br>• Pilotó FAC (Costa Rica 2018 & Ruta Tuxtla-Colón 2024) facturando **US $236 k** en 90 días. |
+
+> *Súper-poder del CEO:* **Resiliencia extrema y visión para convertir cualquier idea en un negocio rentable**, incluso después de empezar desde cero.
+
+---
+
+### 4.2 Core-team — super-poderes
+
+| Nombre | Súper-poder |
+|--------|-------------|
+| **Josué González** | **Hipercierre 10×**: convierte leads en ventas high-ticket con velocidad y margen récord. |
+| **Héctor Salinas** | **Ingeniería imposible**: diseña hardware, drones e IoT que funcionan en cualquier entorno. |
+| **Leonardo Villalobos** | **Arquitecto de nubes invulnerables**: mantiene 99,99 % uptime mientras recorta facturas cloud. |
+| **Johnny Miguel Carleo** | **Puente mediático global**: media, PR y alianzas que multiplican visibilidad internacional. |
+| **María Lucia Carrizo** | **Rastreadora de shoppers**: identifica patrones de compra y dispara ROAS en multicanal. |
+| **Gabriel Rodríguez Pastrana** | **Narrador visual imparable**: convierte conceptos en cómics, motion graphics y virales. |
+| **Gabriel Moran** | **Alquimista de marcas**: destila la esencia de un proyecto en identidades memorables en 24 h. |
+| **Mauricio Islas** | **Amplificador de audiencias**: actor & comunicador que lleva mensajes a millones en LATAM y USA. |
+| **Carlos Domínguez Nataren** | **Escudo fiscal**: estructura vehículos legales que minimizan riesgo y optimizan impuestos. |
+
+---
 ---
 
 ## 5. Producto – Mercado
