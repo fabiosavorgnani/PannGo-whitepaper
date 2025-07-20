@@ -214,14 +214,81 @@ FAC **no tiene un competidor actual que combine**:
 
 Esto posiciona a FAC como un modelo de negocio **de nueva generación**, difícil de replicar por plataformas tradicionales centralizadas.
 ---
+## 7. Economía del Token
 
-## 7. Economía del token
-| Ítem | Detalle |
-|------|---------|
-| **Token utilitario:** `$TRVL`, supply máx 1 Bn | Distribución: Recompensas 30 %, Tesorería 25 %, Equipo 15 %, Airdrop 15 %, Liquidez 10 %, Reserva 5 % |
-| **Halving:** 150 M → 75 M → 37.5 M → 18.75 M (años 1-4) | Uso: -2 % fees, staking CoverFarm, votación DAO, mint NFT |
-| **Sinks:** 1 % buy-back & burn semanal, quema en mint NFT | Pool CoverFarm bloquea 50 % de primas |
+### 7.1. Token $TRVL: Utilidad con Propósito
+El token $TRVL es el combustible del ecosistema FAC. Su función principal es operar como depósito de garantía, medio de reputación y herramienta de redistribución de valor.
 
+**Usos directos del token:**
+- Reserva de artículos sin necesidad de dinero fiat
+- Acceso a experiencias premium o exclusivas
+- Participación en recompensas y gobernanza futura (DAO)
+- Pago de comisiones a los Dealer Travelers (DT)
+
+---
+
+### 7.2. Workflow On-Chain (Flujo de valor en la blockchain)
+Cada transacción en FAC queda registrada en la blockchain, permitiendo trazabilidad, reputación y seguridad para todas las partes.
+
+**Incluye:**
+- GearNFT: Certificación de artículos
+- PersonaNFT: Reputación verificable
+- Pools descentralizados para garantías
+
+---
+
+### 7.3. Modelo de Distribución de Tokens
+
+| Fase                   | Porcentaje | Destino                              |
+|------------------------|------------|---------------------------------------|
+| Comunidad inicial (DT) | 20%        | Incentivos por referidos              |
+| Proveedores fundadores | 15%        | Agents y Facilitators pioneros        |
+| DAO                    | 15%        | Gobernanza y votaciones               |
+| Tesorería FAC          | 25%        | Recompras, expansión y contingencias  |
+| Staking y Liquidez     | 15%        | Exchanges y pools                     |
+| Equipo y asesores      | 10%        | Vesting lineal durante 36 meses       |
+
+---
+
+### 7.4. Política de Emisión y Suministro
+- Suministro total fijo: **100 millones de $TRVL**
+- Emisión controlada y limitada
+- No hay inflación programada, pero sí recompensas temporales para adopción temprana
+
+---
+
+### 7.5. Vesting y Liberación
+
+**Para garantizar compromiso y estabilidad:**
+- **DT & Comunidad**: 25% inmediato, 75% lineal en 18 meses  
+- **Equipo**: Cliff de 6 meses, vesting mensual durante 3 años  
+- **Inversionistas**: Según ronda, 20-30% liberado al inicio, resto en 12 meses
+
+---
+
+### 7.6. Pool de Garantía Descentralizado
+El gran diferencial de FAC. Este pool reemplaza los depósitos de garantía tradicionales con una economía circular respaldada en tokens, gestionada por smart contracts.
+
+- Se alimenta con tokens de proveedores y viajeros
+- Libera fondos tras cumplimientos validados
+- Penaliza si hay reclamos verificados
+
+---
+
+### 7.7. Gobernanza y DAO
+El token $TRVL permitirá a los holders participar en decisiones clave mediante el DAO:
+
+- Propuestas de mejora
+- Inclusión de nuevos roles
+- Cambios en comisiones
+- Fondos de tesorería
+
+---
+
+### 7.8. Futuro del token $TRVL
+- Token sostenible, con utilidad creciente
+- Base para expansión futura hacia más nichos: arte, deportes, movilidad
+- Vinculación con productos DeFi y nuevos modelos de tokenización
 ---
 
 ## 8. Futuribles
