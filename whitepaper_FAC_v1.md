@@ -40,7 +40,7 @@ El Máster en Tokenización de Tutellus impulsa la versión **MVP**:
 
 | Nombre | Súper-poder |
 |--------|-------------|
-| **Josué González** | **Hipercierre 10×**: convierte leads en ventas high-ticket con velocidad y margen récord. |
+| **Josué González** | **Hipercierre : convierte leads en ventas con velocidad y empatia récord. |
 | **Héctor Salinas** | **Ingeniería imposible**: diseña hardware, drones e IoT que funcionan en cualquier entorno. |
 | **Leonardo Villalobos** | **Arquitecto de nubes invulnerables**: mantiene 99,99 % uptime mientras recorta facturas cloud. |
 | **Johnny Miguel Carleo** | **Puente mediático global**: media, PR y alianzas que multiplican visibilidad internacional. |
