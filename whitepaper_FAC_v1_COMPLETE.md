@@ -92,9 +92,9 @@ FAC no solo recorta costos y CO₂: **convierte cada viaje en una cadena de valo
 
 ## 5. Producto + Mercado
 
-### 5.1 Qué es el MVP
+### 5.1 La version  1.0 
 
-FAC V1.0 fusiona **renta de artículos, experiencias P2P y economía colaborativa** en una sola app:
+FAC V1.0 integra en una sola app **la renta de artículos, experiencias P2P, economía colaborativa y un potente sistema de referidos con comisiones vitalicias, transferibles y heredables.**
 
 | Rol             | Acción principal                                    | Beneficio directo                                                   |
 |-----------------|-----------------------------------------------------|---------------------------------------------------------------------|
