@@ -16,12 +16,12 @@
   <text x="150" y="45" text-anchor="middle" font-size="14" fill="#000">US $ 679 Bn</text>
 
   <!-- SAM -->
-  <text x="450" y="60" text-anchor="middle" font-size="20" fill="#000">SAM</text>
-  <text x="450" y="75" text-anchor="middle" font-size="14" fill="#000">US $ 272 Bn</text>
+  <text x="450" y="70" text-anchor="middle" font-size="20" fill="#000">SAM</text>
+  <text x="450" y="85" text-anchor="middle" font-size="14" fill="#000">US $ 272 Bn</text>
 
   <!-- SOM -->
-  <text x="750" y="150" text-anchor="middle" font-size="20" fill="#000">SOM</text>
-  <text x="750" y="175" text-anchor="middle" font-size="14" fill="#000">US $ 8,1 M</text>
+  <text x="750" y="95" text-anchor="middle" font-size="20" fill="#000">SOM</text>
+  <text x="750" y="110" text-anchor="middle" font-size="14" fill="#000">US $ 8,1 M</text>
 
   <!-- Leyenda en tres columnas -->
   <text x="150" y="320" font-size="14" fill="#000" text-anchor="middle">
