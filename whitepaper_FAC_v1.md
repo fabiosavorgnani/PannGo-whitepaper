@@ -18,9 +18,28 @@ FAC, la plataforma de viajes comprometida con mejorar tu mundo.
 ---
 
 ## 3. Introducción
-FAC surge tras dos pilotos (Costa Rica 2018 y Ruta Tuxtla-Colón 2024) que facturaron **US $236 k** en 90 días sin marketing masivo.  
-El Máster en Tokenización de Tutellus impulsa la versión **MVP**:  
-*Renta P2P de artículos, experiencias locales y referidos tokenizados.*
+
+FAC (Folklore, Adventure & Culture) es la **primera plataforma turística colaborativa** que convierte artículos infrautilizados y conocimiento local en experiencias **IRREPETIBLES, accesibles, trazables y ecológicas**.  
+Hoy el viajero se encuentra con ofertas abusivas, sobrecargos de equipaje y un mercado donde los grandes conglomerados absorben más del 80 % del beneficio, mientras millones de residentes guardan equipo o talento que termina ocioso o en la basura.
+
+### Roles que articulan la solución
+- **Voyager** – viajero que consume experiencias y alquila artículos in-situ.  
+- **Agente** – creador local de experiencias auténticas.  
+- **Facilitador** – propietario que renta sus artículos para enriquecer el viaje.  
+
+FAC redistribuye los ingresos **simplemente recomendando** gracias al rol:
+- **DT (Dealer Traveler)** – genera comisiones **vitalicias, transferibles y heredables** por cada usuario referido.
+
+### Web 3.0 desde el día uno
+La confianza se respalda *on-chain* con **PersonaNFT** y **GearNFT**, mientras el token **$TRVL** sustituye los depósitos en garantía mediante un **pool de riesgo descentralizado**.
+
+### Validación en el mundo real
+Dos pilotos previos — *Costa Rica 2018* y *Ruta Tuxtla-Colón 2024* — comprobaron la tracción del modelo con **US $236 000 facturados en 90 días**, sin inversión publicitaria masiva.
+
+### Timing perfecto
+El turismo post-pandemia exige sostenibilidad; la tokenización redistribuye riqueza; la adopción cripto crece a raudales. El **V1.0** se lanzará en **Q1-2026** con **9 000 proveedores iniciales** y un EBITDA positivo antes de cerrar el año.  
+
+FAC no solo recorta costos y CO₂: **convierte cada viaje en una cadena de valor circular** donde la riqueza permanece en manos de quienes la generan.Renta P2P de artículos, experiencias locales y referidos tokenizados.*
 
 ---
 
