@@ -52,7 +52,8 @@
 ---
 
 ## 6. Tokenomics Exprés  
-- **Token**: $TRVL (100 M max).  
+- **Token**: $TRVL (100 M max).
+- **Precio: 3USDT
 - **Distribución**:  
   - 20 % DT y comunidad inicial  
   - 25 % Tesorería FAC  
@@ -82,9 +83,9 @@
 ---
 
 ## 9. Contacto  
-- GitHub: https://github.com/fabiosavorgnani/FAC-Project-FAC-whitepaper  
-- Email: fabio@fac.travel  
-- Web: www.fac.travel  
+- Whitepaper: https://github.com/fabiosavorgnani/FAC-Project-FAC-whitepaper  
+- Email: fabio@ready2fac.com
+- Web: www.ready2fac.com
 - Cómic animado: https://youtu.be/uKRWejXHJQo  
 
 > **FAC:** transformamos viajes en cadenas de valor circulares donde la riqueza se queda en manos de quienes la generan.  
