@@ -294,17 +294,17 @@ El token $TRVL permitirá a los holders participar en decisiones clave mediante 
 
 A partir del 2026, FAC incorporará nuevas funcionalidades y perfiles avanzados que reforzarán su modelo descentralizado, sustentable y colaborativo. Cada "futurible" representa una innovación alineada a la misión de redistribuir el valor turístico hacia quienes realmente lo generan.
 
-### Q1 2026 – Asistente de IA personalizado
+### Q3 2026 – Asistente de IA personalizado
 FAC integrará un asistente de inteligencia artificial en su interfaz que, con base en las preferencias, conversaciones y comportamientos del usuario (Voyager), sugerirá artículos cercanos en alquiler o actividades posibles con agentes. Esta IA actuará como un **curador inteligente de experiencias**.
 
 ---
 
-### Q2 2026 – GearNFT: identidad + trazabilidad
+### Q3 2026 – GearNFT: identidad + trazabilidad
 Cada artículo en renta se convertirá en un NFT con metadatos clave: dueño, uso, ubicación, valor de reposición y garantía. Esto permitirá confianza total entre desconocidos y habilitará reclamos automatizados vía smart contracts ante daños o siniestros.
 
 ---
 
-### Q3 2026 – PersonaNFT: reputación soberana
+### Q4 2026 – PersonaNFT: reputación soberana
 Agentes, facilitadores y viajeros contarán con un NFT que almacene su historial dentro de FAC. Opiniones, desempeño, siniestros, puntualidad y más compondrán su “pasaporte reputacional”. Esto fomenta relaciones duraderas y meritocráticas sin dependencia de intermediarios.
 
 ---
