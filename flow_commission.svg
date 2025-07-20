@@ -1,48 +1,38 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .title {
-      font-family: Mikado, sans-serif;
-      font-size: 22px;
-      font-weight: bold;
-      fill: #000;
-    }
-    .step {
-      font-family: Mikado, sans-serif;
-      font-size: 18px;
-      fill: #333;
-    }
-    .label {
-      font-family: Mikado, sans-serif;
-      font-size: 14px;
-      fill: #666;
-    }
-  </style>
+<svg width="800" height="700" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .label {
+        font-family: Mikado, sans-serif;
+        font-size: 16px;
+        fill: white;
+        font-weight: bold;
+        text-anchor: middle;
+        dominant-baseline: middle;
+      }
+    </style>
+  </defs>
 
-  <!-- Título -->
-  <text x="50%" y="50" class="title" text-anchor="middle">Embudo de distribución de comisión</text>
+  <!-- Trapecio 1: Reserva 100% -->
+  <polygon points="200,50 600,50 550,120 250,120" fill="#191919" />
+  <text x="400" y="85" class="label">1. Reserva (100%)</text>
 
-  <!-- Paso 1 -->
-  <text x="50%" y="120" class="step" text-anchor="middle">1. Reserva del 100%</text>
+  <!-- Trapecio 2: Proveedores 88% -->
+  <polygon points="250,120 550,120 500,190 300,190" fill="#33A1FD" />
+  <text x="400" y="155" class="label">2. Proveedores (88%)</text>
 
-  <!-- Paso 2 -->
-  <text x="50%" y="170" class="step" text-anchor="middle">2. 88% Proveedores</text>
-  <text x="50%" y="190" class="label" text-anchor="middle">(Agentes y Facilitadores)</text>
+  <!-- Trapecio 3: Fee 18% -->
+  <polygon points="300,190 500,190 470,260 330,260" fill="#6C63FF" />
+  <text x="400" y="225" class="label">3. Fee (18%)</text>
 
-  <!-- Paso 3 -->
-  <text x="50%" y="240" class="step" text-anchor="middle">3. 18% Fee de Plataforma</text>
+  <!-- Trapecio 4: Motores externos 8% -->
+  <polygon points="330,260 470,260 450,330 350,330" fill="#FF7F50" />
+  <text x="400" y="295" class="label">4. Motores externos (8%)</text>
 
-  <!-- Paso 4 -->
-  <text x="50%" y="290" class="step" text-anchor="middle">4. 8% Motores Externos</text>
-  <text x="50%" y="310" class="label" text-anchor="middle">(Stripe, pasarelas, gas)</text>
+  <!-- Trapecio 5: Dealer Traveler 2% -->
+  <polygon points="350,330 450,330 440,400 360,400" fill="#7ED957" />
+  <text x="400" y="365" class="label">5. Dealer Traveler (2%)</text>
 
-  <!-- Paso 5 -->
-  <text x="50%" y="360" class="step" text-anchor="middle">5. 2% DT</text>
-  <text x="50%" y="380" class="label" text-anchor="middle">(1% ref. proveedor + 1% ref. viajero)</text>
-
-  <!-- Paso 6 -->
-  <text x="50%" y="430" class="step" text-anchor="middle">6. 8% Comisión neta</text>
-  <text x="50%" y="450" class="label" text-anchor="middle">(ECFAC, FAC, tokenholders)</text>
-
-  <!-- Footer opcional -->
-  <text x="50%" y="530" class="label" text-anchor="middle">FAC - Plataforma turística Web3 · Whitepaper</text>
+  <!-- Trapecio 6: Comisión neta 8% -->
+  <polygon points="360,400 440,400 430,470 370,470" fill="#F9A825" />
+  <text x="400" y="435" class="label">6. Comisión neta (8%)</text>
 </svg>
