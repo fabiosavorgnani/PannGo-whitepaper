@@ -132,7 +132,88 @@ FAC V1.0 fusiona **renta de artículos, experiencias P2P y economía colaborativ
     - 8 % split EC-FAC / FAC / token-holders
 
 Ingresos extra: mint NFT, pool CoverFarm, tokens territoriales CM/CL.
+## 6. Modelo de Negocio
 
+FAC (Folklore, Adventure & Culture) propone un modelo de negocio **colaborativo, descentralizado y sin inventario**, donde cualquier persona puede generar ingresos desde sus propios activos o conocimientos, mientras los viajeros acceden a experiencias más auténticas, asequibles y sostenibles.
+
+### 6.1 Estructura basada en roles
+
+El sistema económico de FAC se articula a través de cuatro roles interconectados:
+
+- **Voyager**: Usuario que contrata experiencias o alquila artículos.
+- **Agente**: Persona que diseña y ofrece experiencias locales.
+- **Facilitador**: Persona que renta artículos propios (profesionales, amateurs, artesanales).
+- **Dealer Traveler (DT)**: Persona que recomienda proveedores o viajeros y recibe una comisión perpetua por ello.
+
+Los usuarios pueden desempeñar uno o varios roles, con trazabilidad total gracias a la tecnología Web3.
+
+### 6.2 Distribución de comisiones
+
+El sistema de comisiones está diseñado para incentivar la expansión y la permanencia de los usuarios sin necesidad de inversión publicitaria masiva:
+
+- **1%** al DT que refirió al proveedor (Agente o Facilitador).
+- **1%** al DT que refirió al Voyager.
+- **8%** destinado a los motores de operación y expansión de FAC.
+- **El resto** se distribuye entre:
+  - ECFAC (estructura central de FAC),
+  - la empresa FAC,
+  - y los holders del token $TRVL.
+
+Este sistema **fomenta la recomendación boca a boca**, la descentralización de ingresos y la sostenibilidad operativa.
+
+### 6.3 Sin inventario, con apalancamiento comunitario
+
+FAC no compra, ni almacena artículos. Se apalanca en el talento, equipos y conocimientos ya existentes en cada destino. Esto permite:
+
+- Escalar sin endeudamiento.
+- Reducir barreras de entrada.
+- Activar una economía circular en torno al turismo local.
+
+### 6.4 Tokenización funcional
+
+El token **$TRVL** reemplaza los depósitos de garantía tradicionales mediante un **pool de riesgo descentralizado**. Además:
+
+- Sirve para pagar, validar reputación, desbloquear funciones y participar en gobernanza.
+- Se adquiere por uso, no por especulación.
+- Tiene utilidad real desde el MVP, no promesas futuras.
+
+### 6.5 Gobernanza progresiva
+
+FAC adopta un modelo DAO en etapas:
+
+- **Etapa 1**: Control centralizado por ECFAC con monitoreo de indicadores clave.
+- **Etapa 2**: Gobernanza compartida en decisiones estratégicas.
+- **Etapa 3**: DAO plena, donde la comunidad vota sobre desarrollos, integraciones y los futuros *futuribles*.
+
+### 6.6 Integración de inteligencia artificial
+
+Un asistente de IA personalizado en la plataforma propondrá experiencias o artículos según las preferencias, historial de uso y comportamiento de los viajeros. Esto aumenta:
+
+- Engagement y satisfacción del usuario.
+- Tasa de conversión.
+- Valor agregado sin costo humano.
+
+### 6.7 Modelo de ingresos adicionales
+
+FAC diversifica ingresos a través de:
+
+- Venta de experiencias y alquileres.
+- Comisiones sobre cada transacción.
+- Servicios complementarios (seguros, upgrades, premium).
+- Desarrollo de *futuribles* tokenizados: verticales que expanden el modelo original hacia nuevos sectores.
+
+### 6.8 Sin competencia directa
+
+FAC **no tiene un competidor actual que combine**:
+
+- Economía colaborativa sin inventario,
+- Experiencias hiperlocales,
+- Recompensas transferibles y heredables,
+- Gobernanza real vía DAO,
+- Tokenización desde el MVP,
+- Y un roadmap de expansión con impacto social.
+
+Esto posiciona a FAC como un modelo de negocio **de nueva generación**, difícil de replicar por plataformas tradicionales centralizadas.
 ---
 
 ## 7. Economía del token
