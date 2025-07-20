@@ -11,7 +11,7 @@
 6. [Modelo de Negocio](#6-modelo-de-negocio)  
 7. [Economía del Token](#7-economía-del-token)  
 8. [Roadmap](#8-roadmap)  
-9. [Capitalización y Financiamiento](#9-capitalizacion-y-financiamiento)  
+9. [Capitalización y Financiamiento](#9-capitalización-y-financiamiento)  
 10. [Futuribles](#10-futuribles)  
 11. [Anexos](#11-anexos)  
 12. [Glosario](#12-glosario)  
