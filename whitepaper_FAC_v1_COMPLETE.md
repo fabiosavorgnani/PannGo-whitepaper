@@ -180,7 +180,7 @@ Modelo **zero-inventory**: escala sin endeudamiento y activa economía circular.
 
 ![Tokenomics Diagram](diagramatokenomics.png)
 
-El siguiente diagrama ilustra cómo **$TRVL** y el staking alimentan toda la economía colaborativa de FAC:
+**$TRVL** y el staking alimentan toda la economía colaborativa de FAC:
 
 - **Staking de $TRVL**  
   - Sustituye los depósitos fiat en el **Pool de riesgo/fianzas (CoverFarm)**.  
