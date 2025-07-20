@@ -18,18 +18,18 @@
   <text x="400" y="130" class="texto">2. Proveedores (88%)</text>
 
   <!-- 3. Fee (18%) -->
-  <rect x="100" y="170" width="500" height="60" fill="#593E86"/>
+  <rect x="150" y="170" width="500" height="60" fill="#593E86"/>
   <text x="400" y="200" class="texto">3. Fee (18%)</text>
 
   <!-- 4. Motores externos (8%) -->
-  <rect x="100" y="240" width="450" height="60" fill="#E8415F"/>
+  <rect x="175" y="240" width="450" height="60" fill="#E8415F"/>
   <text x="400" y="270" class="texto">4. Motores externos (8%)</text>
 
   <!-- 5. Dealer Travelers (2%) -->
-  <rect x="100" y="310" width="400" height="60" fill="#FABD33"/>
+  <rect x="200" y="310" width="400" height="60" fill="#FABD33"/>
   <text x="400" y="340" class="texto">5. Dealer Travelers (2%)</text>
 
   <!-- 6. Comisión neta (8%) -->
-  <rect x="100" y="380" width="350" height="60" fill="#1982F2"/>
+  <rect x="225" y="380" width="350" height="60" fill="#1982F2"/>
   <text x="400" y="410" class="texto">6. Comisión neta (8%)</text>
 </svg>
