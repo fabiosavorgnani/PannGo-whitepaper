@@ -71,19 +71,54 @@ FAC no solo recorta costos y CO₂: **convierte cada viaje en una cadena de valo
 
 ---
 ---
-
 ## 5. Producto – Mercado
-### MVP
-- **Voyager:** alquila artículos y reserva tours.  
-- **Agente:** crea experiencias locales.  
-- **Facilitador:** renta cualquier ítem (GoPro → camper).  
-- **DT:** refiere usuarios y cobra 1 % vitalicio.
 
-### TAM-SAM-SOM  
-![TAM-SAM-SOM](docs/graphics/TAM_SAM_SOM.svg)
+### 5.1 Qué es el MVP
 
-> **Océano azul:** ningún competidor integra alquiler de artículos, itinerarios P2P y tokenización ecológica; FAC crea su propia categoría.
+FAC V1.0 fusiona **renta de artículos, experiencias P2P y economía colaborativa** en una sola app:
 
+| Rol | Acción principal | Beneficio directo |
+|-----|------------------|-------------------|
+| **Voyager** | Alquila artículos in-situ y reserva experiencias únicas. | Viaja ligero, evita sobrecargos y accede a actividades auténticas. |
+| **Agente** | Publica itinerarios validados por QR. | Monetiza su expertise local y gana reputación on-chain. |
+| **Facilitador** | Renta cualquier artículo infrautilizado (GoPro, dron, camper). | Convierte trastos en ingresos y fomenta economía circular. |
+| **DT (Dealer Traveler)** | Recomienda usuarios con link/QR. | Cobra **1 % vitalicio, transferible y heredable** sin invertir capital. |
+
+> **Ventaja clave:** ningún competidor global une alquiler de gear + tours P2P + tokenización ecológica. FAC crea un océano azul.
+
+---
+
+### 5.2 TAM – SAM – SOM
+
+![Gráfica TAM-SAM-SOM](TAM_SAM_SOM.svg)
+
+| Métrica | Valor | Fuente |
+|---------|-------|--------|
+| **TAM** | **US $ 679 Bn/año** | UNWTO 2024 + Statista (283 Bn alojamiento P2P + 396 Bn experiencias online) |
+| **SAM** | **US $ 272 Bn** (40 % del TAM) | Porción ya transada vía apps nicho |
+| **SOM** | **US $ 8,1 M GMV** (0,003 % del SAM en 3 años) | Suficiente para break-even y validación global |
+
+> FAC captura valor **nuevo**; no disputa cuota existente porque su core no está cubierto por OTAs tradicionales.
+
+---
+
+### 5.3 Dolor del mercado hoy
+
+1. **Equipaje costoso y restricciones aéreas**: viajeros abandonan actividades por no cargar equipo.  
+2. **Oferta fragmentada**: se requieren 3-4 apps distintas para organizar un viaje completo.  
+3. **Concentración de ganancias**: +80 % del valor queda en grandes OTAs, poco llega a locales.  
+4. **Huella de carbono elevada**: artículos de uso único terminan en desecho.
+
+---
+
+### 5.4 Cómo FAC lo resuelve
+
+- **Renta in-destino** → Practicar cualquier actividad sin pagar equipaje extra.  
+- **Marketplace unificado** → Hospedaje, experiencias y artículos en un pago.  
+- **Economía colaborativa tokenizada** → Ingresos pasivos 1 % para cualquier ciudadano que recomiende.  
+- **Impacto ecológico tokenizado** → $TRVL + Token ECO incentivan reutilización y reducen CO₂.
+
+---
 ---
 
 ## 6. Modelo de negocios
