@@ -132,7 +132,6 @@ FAC V1.0 fusiona **renta de artículos, experiencias P2P y economía colaborativ
     - 8 % split EC-FAC / FAC / token-holders
 
 Ingresos extra: mint NFT, pool CoverFarm, tokens territoriales CM/CL.
-## 6. Modelo de Negocio
 
 FAC (Folklore, Adventure & Culture) propone un modelo de negocio **colaborativo, descentralizado y sin inventario**, donde cualquier persona puede generar ingresos desde sus propios activos o conocimientos, mientras los viajeros acceden a experiencias más auténticas, asequibles y sostenibles.
 
