@@ -226,7 +226,7 @@ FAC se financia sin bursatilización, mediante:
 
 1. **Bootstrapping y preventas** (2025-2026).  
 2. **Token utility** (2026): staking, DAO, descuentos.  
-3. **Capital inteligente** (2027-2028): alianzas y equity colaborativo.
+3. **Capital inteligente** (2027): alianzas y equity colaborativo.
 
 ### Gastos anuales proyectados
 
