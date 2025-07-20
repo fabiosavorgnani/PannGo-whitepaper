@@ -12,7 +12,7 @@
 
   <!-- Etiquetas dentro de círculos -->
   <!-- TAM -->
-  <text x="150" y="150" text-anchor="middle" font-size="20" fill="#000">TAM</text>
+  <text x="150" y="100" text-anchor="middle" font-size="20" fill="#000">TAM</text>
   <text x="150" y="175" text-anchor="middle" font-size="14" fill="#000">US $ 679 Bn</text>
 
   <!-- SAM -->
