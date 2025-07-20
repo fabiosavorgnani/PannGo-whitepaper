@@ -200,23 +200,26 @@ Modelo **zero-inventory**: escala sin endeudamiento y activa economía circular.
 
 ## 8. Roadmap
 
+**2025**  
+- Q4: MVP básico con reservas y validación QR.
+
 **2026**  
-- Q1: MVP básico con reservas y validación QR.  
-- Q2: Smart contracts + primer NFT.  
-- Q3: Comunidad de agentes y IA de recomendación.  
-- Q4: Onboarding masivo y eventos colaborativos.
+- Q1: Onboarding de 9000 a 14000 usuarios reales  
+- Q2: Smart contracts + primer NFT  
+- Q3: Comunidad de agentes y IA de recomendación  
+- Q4: Onboarding masivo y eventos colaborativos
 
 **2027**  
-- Q1: DAO Beta + token operativo.  
-- Q2: Expansión internacional por nodos.  
-- Q3: Staking y recompensas + app móvil.  
-- Q4: Formalización DAO y votaciones.
+- Q1: DAO Beta + token operativo  
+- Q2: Expansión internacional por nodos  
+- Q3: Staking y recompensas + app móvil  
+- Q4: Formalización DAO y votaciones
 
 **2028**  
-- Q1: Concesiones a terceros.  
-- Q2: Capitalización de futuribles.  
-- Q3: Redención internacional + alianzas.  
-- Q4: Ecosistema autónomo consolidado.
+- Q1: Concesiones a terceros  
+- Q2: Capitalización de futuribles  
+- Q3: Redención internacional + alianzas  
+- Q4: Ecosistema autónomo consolidado
 
 ---
 
