@@ -14,7 +14,7 @@
   <text x="400" y="60" class="texto">1. Reserva (100%)</text>
 
   <!-- 2. Proveedores (88%) -->
-  <rect x="100" y="100" width="550" height="60" fill="#047C7D"/>
+  <rect x="125" y="100" width="550" height="60" fill="#047C7D"/>
   <text x="400" y="130" class="texto">2. Proveedores (88%)</text>
 
   <!-- 3. Fee (18%) -->
