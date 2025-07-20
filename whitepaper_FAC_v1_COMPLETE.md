@@ -176,7 +176,41 @@ Modelo **zero-inventory**: escala sin endeudamiento y activa economía circular.
 ---
 
 ## 7. Economía del Token
+### 7.X Diagrama de Tokenomics (Utility & Staking)
 
+![Tokenomics Diagram](diagramatokenomics.png)
+
+El siguiente diagrama ilustra cómo **$TRVL** y el staking alimentan toda la economía colaborativa de FAC:
+
+- **Staking de $TRVL**  
+  - Sustituye los depósitos fiat en el **Pool de riesgo/fianzas (CoverFarm)**.  
+  - Desbloquea descuentos directos en fees (–2 %) y acceso a funciones premium.  
+  - Permite **farming**: aportas liquidez al par USDT/$TRVL y recibes recompensas semanales.
+
+- **Pool de liquidez**  
+  - Soporta compra/venta de $TRVL en exchanges (USDT – $TRVL).  
+  - Aporta estabilidad al precio y facilita el **DEFI** interno.
+
+- **CoverFarm (Pool de riesgo/fianzas)**  
+  - Financia garantías de Agentes y Facilitadores con las primas de staking.  
+  - Libera fondos tras validación on-chain (QR + fotos in situ).  
+  - Aplica **slashing** (castigos) si hay incumplimientos.
+
+- **GearNFT & PersonaNFT**  
+  - **GearNFT** (100 $TRVL) omite depósito y certifica el artículo.  
+  - **PersonaNFT** (50 $TRVL) crea tu pasaporte reputacional on-chain.  
+  - Ambos fluyen P2P y queman parte de $TRVL (buy-back & burn).
+
+- **Incentivos adicionales**  
+  - Recompensas en $TRVL por comisiones (1 % Vitalicio DT).  
+  - Acceso a mercado secundario de NFTs y subastas exclusivas.  
+  - Gobernanza DAO en fases Q1-2027: votar futuribles y parámetros de plataforma.
+
+- **Economía circular**  
+  - El 8 % de cada fee retorna a la tesorería FAC, parte se recompran tokens.  
+  - Cada acción (reserva, alquiler, recomendación) genera valor y distribuye recompensas.
+
+Con este flujo, **$TRVL** deja de ser solo un medio de pago: es **garantía**, **descuento**, **recompensa**, **herramienta de farming** y **voto de gobernanza**, todo desde el MVP.  
 ### 7.1 Token $TRVL: Utilidad
 
 - Depósito de garantía  
