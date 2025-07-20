@@ -122,7 +122,7 @@ FAC V1.0 fusiona **renta de artículos, experiencias P2P y economía colaborativ
 ---
 
 ## 6. Modelo de negocios
-![Flujo de comisiones](docs/graphics/flow_commission.svg)
+![Flujo de comisiones](flow_commission.svg)
 
 - **Fee total:** 18 %  
   - 8 % motores/pasarela  
