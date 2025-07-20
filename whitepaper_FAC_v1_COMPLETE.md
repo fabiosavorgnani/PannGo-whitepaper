@@ -107,7 +107,7 @@ FAC V1.0 fusiona **renta de artículos, experiencias P2P y economía colaborativ
 
 ### 5.2 TAM – SAM – SOM
 
-![TAM-SAM-SOM](assets/visuals/TAM_SAM_SOM.svg)
+![TAM-SAM-SOM](TAM_SAM_SOM.svg)
 
 | Métrica                      | Valor               | Fuente                                                           |
 |------------------------------|---------------------|------------------------------------------------------------------|
@@ -135,7 +135,7 @@ FAC V1.0 fusiona **renta de artículos, experiencias P2P y economía colaborativ
 
 ## 6. Modelo de Negocio
 
-![Flujo de comisiones](assets/visuals/flow_commission.svg)
+![Flujo de comisiones](flow_commission.svg)
 
 - **Fee total:** 18 %  
   - 8 % motores/pasarela  
@@ -249,7 +249,66 @@ FAC se financia sin bursatilización, mediante:
 
 ## 10. Futuribles
 
-*(Contenido de futuribles como en sección original)*
+
+A partir del 2026, FAC incorporará nuevas funcionalidades y perfiles avanzados que reforzarán su modelo descentralizado, sustentable y colaborativo. Cada "futurible" representa una innovación alineada a la misión de redistribuir el valor turístico hacia quienes realmente lo generan.
+
+### Q3 2026 – Asistente de IA personalizado
+FAC integrará un asistente de inteligencia artificial en su interfaz que, con base en las preferencias, conversaciones y comportamientos del usuario (Voyager), sugerirá artículos cercanos en alquiler o actividades posibles con agentes. Esta IA actuará como un **curador inteligente de experiencias**.
+
+---
+
+### Q3 2026 – GearNFT: identidad + trazabilidad
+Cada artículo en renta se convertirá en un NFT con metadatos clave: dueño, uso, ubicación, valor de reposición y garantía. Esto permitirá confianza total entre desconocidos y habilitará reclamos automatizados vía smart contracts ante daños o siniestros.
+
+---
+
+### Q4 2026 – PersonaNFT: reputación soberana
+Agentes, facilitadores y viajeros contarán con un NFT que almacene su historial dentro de FAC. Opiniones, desempeño, siniestros, puntualidad y más compondrán su “pasaporte reputacional”. Esto fomenta relaciones duraderas y meritocráticas sin dependencia de intermediarios.
+
+---
+
+### Q4 2026 – Estaciones FAC
+Microhubs comunitarios equipados con lockers y puntos de carga que actúan como centros logísticos para la entrega y devolución de artículos. Las estaciones podrán operar desde tiendas locales, casas de familia o espacios vacíos. Tokenholders podrán financiar su creación a cambio de recompensas.
+
+---
+
+### Q1 2027 – Confesiones (matching)
+Sistema de matching de experiencias tipo “confesionario”: usuarios comparten sueños, intereses o habilidades y la IA sugiere actividades, rutas y personas afines. Esto potencia las conexiones entre viajeros, agentes y comunidades anfitrionas.
+
+---
+
+### Q2 2027 – Carteleras Locales Dinámicas
+Cada zona tendrá un mural local digital con ranking de artículos, experiencias destacadas, eventos próximos y ofertas. Los agentes y facilitadores compiten sanamente para destacarse en estas vitrinas. Todo es gobernado por DAO zonales.
+
+---
+
+### Q3 2027 – Impulsores y Concesionarios
+
+**Impulsor:** Rol estratégico que acelera el crecimiento de FAC en zonas nuevas. No crea contenido ni artículos, sino que capta talento (agentes y facilitadores), verifica estándares y fortalece la base comunitaria. Su impacto se remunera mediante recompensas de DAO.
+
+**Concesionario:** Usuario que adopta la expansión regional de FAC en zonas aún no cubiertas. Firma un acuerdo DAO donde asume el desarrollo operativo del territorio a cambio de un % de las comisiones generadas. Puede subcontratar impulsores y moderadores locales.
+
+---
+
+### Q4 2027 – RTsan: protección de artesanos
+NFTs de autenticidad que certifican origen, procedencia y características de piezas artesanales. FAC permitirá que estos artesanos vendan directamente vía marketplaces como Amazon o Mercado Libre, sin intermediarios. Por cada venta el artesano gana regalías automáticas y el comprador posee una prueba digital verificable.
+
+---
+
+### Q1 2028 – DAO plena y primera ola de concesiones
+FAC evolucionará hacia una gobernanza descentralizada mediante una DAO plena. Se habilitarán las primeras concesiones territoriales en 12 zonas piloto, donde las decisiones se toman mediante votación tokenizada. Cada concesionario ejecuta con autonomía y responde ante su comunidad.
+
+---
+
+### Q2 2028 – DAO plena y primera ola de futuribles
+Concesionarios, agentes y holders podrán proponer nuevos futuribles que serán votados por la comunidad. Los más votados se priorizarán para implementación trimestral, apoyados por presupuestos DAO específicos.
+
+---
+
+### Q3 2028 – Roadmap cerrado para V2.0
+Para septiembre de 2028 se tendrá ejecutado el roadmap de todos los futuribles definidos en 2026-2028, lo que marca el paso a la versión 2.0 de FAC: un ecosistema descentralizado, autosostenible y replicable a escala mundial.
+---
+
 
 ---
 
