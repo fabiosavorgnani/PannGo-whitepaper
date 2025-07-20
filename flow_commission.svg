@@ -17,7 +17,7 @@
   <text x="400" y="75" class="text">1. Reserva (100%)</text>
 
   <!-- Tramo 2: Proveedores (88%) -->
-  <polygon points="250,100 550,100 500,150 300,150" fill="#009688"/>
+  <polygon points="200,50 600,50 550,100 250,100" fill="#009688"/>
   <text x="400" y="125" class="text">2. Proveedores (88%)</text>
 
   <!-- Tramo 3: Fee (18%) -->
