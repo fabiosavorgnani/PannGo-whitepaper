@@ -176,7 +176,7 @@ Modelo **zero-inventory**: escala sin endeudamiento y activa economía circular.
 ---
 
 ## 7. Economía del Token
-### 7.X Diagrama de Tokenomics (Utility & Staking)
+### 7.(d) Diagrama de Tokenomics (Utility & Staking)
 
 ![Tokenomics Diagram](diagramatokenomics.png)
 
