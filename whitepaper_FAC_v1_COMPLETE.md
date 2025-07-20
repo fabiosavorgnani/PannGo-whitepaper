@@ -306,7 +306,7 @@ Concesionarios, agentes y holders podrán proponer nuevos futuribles que serán 
 ---
 
 ### Q3 2028 – Roadmap cerrado para V2.0
-Para septiembre de 2028 se tendrá ejecutado el roadmap de todos los futuribles definidos en 2026-2028, lo que marca el paso a la versión 2.0 de FAC: un ecosistema descentralizado, autosostenible y replicable a escala mundial.
+Para septiembre de 2028 se tendrá ejecutado el roadmap de todos los futuribles definidos en 2026-2028, lo que marca el paso a las futuras verrsiones de FAC: un ecosistema descentralizado, autosostenible y replicable a escala mundial.
 ---
 
 
