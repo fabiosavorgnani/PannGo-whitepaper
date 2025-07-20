@@ -199,6 +199,28 @@ Modelo **zero-inventory**: escala sin endeudamiento y activa economía circular.
 ### 7.5 Precio de Token
 
 **(aún por definir)**
+**(3USDT)**
+### Venta de $TRVL a **3 USDT** c/u (stop al alcanzar metas)
+
+Para cubrir **1 300 000 USDT** de operaciones y financiar un **pool de liquidez** de **130 000 USDT**, se venden **476 666 TRVL** en dos fases:
+
+1. **Operativo**  
+   - **Tokens:** 433 333 TRVL  
+   - **Precio:** 3 USDT  
+   - **Recaudo:** 433 333 × 3 USDT = **1 300 000 USDT**
+
+2. **Pool de liquidez**  
+   - **Tokens:** 43 333 TRVL  
+   - **Precio:** 3 USDT  
+   - **Recaudo:** 43 333 × 3 USDT = **130 000 USDT**
+
+---
+
+**Totales**  
+- **TRVL vendidos:** 433 333 + 43 333 = **476 666 TRVL**  
+- **USDT recaudados:** 1 300 000 + 130 000 = **1 430 000 USDT**  
+
+> 🛑 Al llegar a los **476 666 TRVL** vendidos, la venta se cierra automáticamente.
 ---
 
 ## 8. Roadmap
