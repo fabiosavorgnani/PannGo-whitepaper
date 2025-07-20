@@ -30,7 +30,7 @@ El Máster en Tokenización de Tutellus impulsa la versión **MVP**:
 
 | Nombre | Formación | Trayectoria | Logros clave |
 |--------|-----------|-------------|--------------|
-| **Fabio de Savorgnani** | • Ingeniería Telemática (TTE)  <br>• Especialista en Estrategia y Branding (G7 Gráfico) | 20 años lanzando y dirigiendo empresas de tecnología e imagen.  <br>Primer emprendimiento a los **14 años**: pizzería *Don Tino*.  <br>A los **16 años** montó una sala de videojuegos “sin consolas” (modelo de participación en utilidades). | • Fundó **TTE** (Telemática y Tecnología Especializada).  <br>• Fundó **G7 Gráfico** (agencia de branding, 12 años).  <br>• Pilotó FAC (Costa Rica 2018 & Ruta Tuxtla-Colón 2024) facturando **US $236 k** en 90 días. |
+| **Fabio de Savorgnani** | • Ingeniería Telemática (TTE)  <br>• Especialista en Estrategia y Branding (G7 Gráfico) | 20 años lanzando y dirigiendo empresas de tecnología e imagen.  <br>Primer emprendimiento a los **14 años**: pizzería *Don Tino*.  <br>A los **16 años** montó una sala de videojuegos “sin consolas” (modelo de participación en utilidades). | • Fundó **TTE** (Telemática y Tecnología Especializada).  <br>• Fundó **G7 Gráfico** (agencia de branding, 12 años).  <br>• Pilotó FAC (Costa Rica  & Ruta Tuxtla-Colón ) facturando **US $236 k** en 90 días. |
 
 > *Súper-poder del CEO:* **Resiliencia extrema y visión para convertir cualquier idea en un negocio rentable**, incluso después de empezar desde cero.
 
