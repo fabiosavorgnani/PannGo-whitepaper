@@ -24,7 +24,7 @@
   <text x="750" y="175" text-anchor="middle" font-size="14" fill="#000">US $ 8,1 M</text>
 
   <!-- Leyenda en tres columnas -->
-  <text x="90" y="320" font-size="14" fill="#000" text-anchor="middle">
+  <text x="150" y="320" font-size="14" fill="#000" text-anchor="middle">
     TAM · Mercado Total Alcanzable
   </text>
   <text x="450" y="320" font-size="14" fill="#000" text-anchor="middle">
