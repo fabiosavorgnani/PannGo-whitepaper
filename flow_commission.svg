@@ -1,38 +1,35 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
   <style>
-    .text {
+    .texto {
       font-family: Mikado, sans-serif;
-      font-size: 16px;
+      font-size: 18px;
       fill: white;
       text-anchor: middle;
       alignment-baseline: middle;
     }
   </style>
 
-  <!-- Colores de tu paleta (ejemplo aproximado) -->
-  <!-- Puedes ajustar los valores hex si deseas otra tonalidad -->
+  <!-- 1. Reserva (100%) -->
+  <rect x="100" y="30" width="600" height="60" fill="#141C24"/>
+  <text x="400" y="60" class="texto">1. Reserva (100%)</text>
 
-  <!-- Tramo 1: Reserva -->
-  <polygon points="200,50 600,50 550,100 250,100" fill="#1A1A1A"/>
-  <text x="400" y="75" class="text">1. Reserva (100%)</text>
+  <!-- 2. Proveedores (88%) -->
+  <rect x="100" y="100" width="600" height="60" fill="#047C7D"/>
+  <text x="400" y="130" class="texto">2. Proveedores (88%)</text>
 
-  <!-- Tramo 2: Proveedores (88%) -->
-  <polygon points="200,50 600,50 550,100 250,100" fill="#009688"/>
-  <text x="400" y="125" class="text">2. Proveedores (88%)</text>
+  <!-- 3. Fee (18%) -->
+  <rect x="100" y="170" width="600" height="60" fill="#593E86"/>
+  <text x="400" y="200" class="texto">3. Fee (18%)</text>
 
-  <!-- Tramo 3: Fee (18%) -->
-  <polygon points="300,150 500,150 450,200 350,200" fill="#673AB7"/>
-  <text x="400" y="175" class="text">3. Fee (18%)</text>
+  <!-- 4. Motores externos (8%) -->
+  <rect x="100" y="240" width="600" height="60" fill="#E8415F"/>
+  <text x="400" y="270" class="texto">4. Motores externos (8%)</text>
 
-  <!-- Tramo 4: Motores externos (8%) -->
-  <polygon points="350,200 450,200 420,250 380,250" fill="#E91E63"/>
-  <text x="400" y="225" class="text">4. Motores externos (8%)</text>
+  <!-- 5. Dealer Travelers (2%) -->
+  <rect x="100" y="310" width="600" height="60" fill="#FABD33"/>
+  <text x="400" y="340" class="texto">5. Dealer Travelers (2%)</text>
 
-  <!-- Tramo 5: DTs (2%) -->
-  <polygon points="380,250 420,250 410,300 390,300" fill="#FBC02D"/>
-  <text x="400" y="275" class="text">5. DTs (2%)</text>
-
-  <!-- Tramo 6: Comisión neta (8%) -->
-  <polygon points="390,300 410,300 405,350 395,350" fill="#2196F3"/>
-  <text x="400" y="325" class="text">6. Comisión neta (8%)</text>
+  <!-- 6. Comisión neta (8%) -->
+  <rect x="100" y="380" width="600" height="60" fill="#1982F2"/>
+  <text x="400" y="410" class="texto">6. Comisión neta (8%)</text>
 </svg>
