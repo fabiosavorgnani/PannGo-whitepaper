@@ -2,7 +2,7 @@
 ## Whitepaper v1  (julio 2025)
 
 ## 1. Síntesis  
-FAC, la plataforma de viajes comprometida con mejorar tu mundo.
+FAC, la plataforma de viajes comprometida con grandes impactos.
 
 ## 2. Índice
 1. [Síntesis](#1-síntesis)  
