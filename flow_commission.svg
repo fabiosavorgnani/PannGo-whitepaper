@@ -1,29 +1,48 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title {
+      font-family: Mikado, sans-serif;
+      font-size: 22px;
+      font-weight: bold;
+      fill: #000;
+    }
+    .step {
+      font-family: Mikado, sans-serif;
+      font-size: 18px;
+      fill: #333;
+    }
+    .label {
+      font-family: Mikado, sans-serif;
+      font-size: 14px;
+      fill: #666;
+    }
+  </style>
 
-<svg width="600" height="220" xmlns="http://www.w3.org/2000/svg" font-family="Arial" font-size="12">
-  <rect x="10" y="10" width="140" height="40" fill="#23d1b1" stroke="#065e74" />
-  <text x="80" y="35" text-anchor="middle" fill="#FFFFFF">Reserva</text>
+  <!-- Título -->
+  <text x="50%" y="50" class="title" text-anchor="middle">Embudo de distribución de comisión</text>
 
-  <polygon points="150,30 170,20 170,40" fill="#065e74"/>
-  <rect x="170" y="10" width="140" height="40" fill="#065e74" stroke="#23d1b1" />
-  <text x="240" y="35" text-anchor="middle" fill="#FFFFFF">18% Fee</text>
+  <!-- Paso 1 -->
+  <text x="50%" y="120" class="step" text-anchor="middle">1. Reserva del 100%</text>
 
-  <polygon points="310,30 330,20 330,40" fill="#065e74"/>
-  <rect x="330" y="10" width="120" height="40" fill="#999999" stroke="#065e74" />
-  <text x="390" y="35" text-anchor="middle" fill="#FFFFFF">8% Motores</text>
+  <!-- Paso 2 -->
+  <text x="50%" y="170" class="step" text-anchor="middle">2. 88% Proveedores</text>
+  <text x="50%" y="190" class="label" text-anchor="middle">(Agentes y Facilitadores)</text>
 
-  <polygon points="330,90 310,80 310,100" fill="#065e74"/>
-  <rect x="170" y="70" width="140" height="40" fill="#065e74" stroke="#23d1b1" />
-  <text x="240" y="95" text-anchor="middle" fill="#FFFFFF">10% Bruto FAC</text>
+  <!-- Paso 3 -->
+  <text x="50%" y="240" class="step" text-anchor="middle">3. 18% Fee de Plataforma</text>
 
-  <polygon points="310,90 330,80 330,100" fill="#065e74"/>
-  <rect x="330" y="70" width="120" height="40" fill="#23d1b1" stroke="#065e74" />
-  <text x="390" y="90" text-anchor="middle" fill="#FFFFFF">1% DT (Proveedor)</text>
+  <!-- Paso 4 -->
+  <text x="50%" y="290" class="step" text-anchor="middle">4. 8% Motores Externos</text>
+  <text x="50%" y="310" class="label" text-anchor="middle">(Stripe, pasarelas, gas)</text>
 
-  <polygon points="330,150 310,140 310,160" fill="#065e74"/>
-  <rect x="170" y="130" width="120" height="40" fill="#23d1b1" stroke="#065e74" />
-  <text x="230" y="150" text-anchor="middle" fill="#FFFFFF">1% DT (Voyager)</text>
+  <!-- Paso 5 -->
+  <text x="50%" y="360" class="step" text-anchor="middle">5. 2% DT</text>
+  <text x="50%" y="380" class="label" text-anchor="middle">(1% ref. proveedor + 1% ref. viajero)</text>
 
-  <polygon points="310,150 330,140 330,160" fill="#065e74"/>
-  <rect x="330" y="130" width="240" height="40" fill="#065e74" stroke="#23d1b1" />
-  <text x="450" y="155" text-anchor="middle" fill="#FFFFFF">98% → Split FAC / EC-FAC / Holders</text>
+  <!-- Paso 6 -->
+  <text x="50%" y="430" class="step" text-anchor="middle">6. 8% Comisión neta</text>
+  <text x="50%" y="450" class="label" text-anchor="middle">(ECFAC, FAC, tokenholders)</text>
+
+  <!-- Footer opcional -->
+  <text x="50%" y="530" class="label" text-anchor="middle">FAC - Plataforma turística Web3 · Whitepaper</text>
 </svg>
