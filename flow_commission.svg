@@ -1,0 +1,29 @@
+
+<svg width="600" height="220" xmlns="http://www.w3.org/2000/svg" font-family="Arial" font-size="12">
+  <rect x="10" y="10" width="140" height="40" fill="#23d1b1" stroke="#065e74" />
+  <text x="80" y="35" text-anchor="middle" fill="#FFFFFF">Reserva</text>
+
+  <polygon points="150,30 170,20 170,40" fill="#065e74"/>
+  <rect x="170" y="10" width="140" height="40" fill="#065e74" stroke="#23d1b1" />
+  <text x="240" y="35" text-anchor="middle" fill="#FFFFFF">18% Fee</text>
+
+  <polygon points="310,30 330,20 330,40" fill="#065e74"/>
+  <rect x="330" y="10" width="120" height="40" fill="#999999" stroke="#065e74" />
+  <text x="390" y="35" text-anchor="middle" fill="#FFFFFF">8% Motores</text>
+
+  <polygon points="330,90 310,80 310,100" fill="#065e74"/>
+  <rect x="170" y="70" width="140" height="40" fill="#065e74" stroke="#23d1b1" />
+  <text x="240" y="95" text-anchor="middle" fill="#FFFFFF">10% Bruto FAC</text>
+
+  <polygon points="310,90 330,80 330,100" fill="#065e74"/>
+  <rect x="330" y="70" width="120" height="40" fill="#23d1b1" stroke="#065e74" />
+  <text x="390" y="90" text-anchor="middle" fill="#FFFFFF">1% DT (Proveedor)</text>
+
+  <polygon points="330,150 310,140 310,160" fill="#065e74"/>
+  <rect x="170" y="130" width="120" height="40" fill="#23d1b1" stroke="#065e74" />
+  <text x="230" y="150" text-anchor="middle" fill="#FFFFFF">1% DT (Voyager)</text>
+
+  <polygon points="310,150 330,140 330,160" fill="#065e74"/>
+  <rect x="330" y="130" width="240" height="40" fill="#065e74" stroke="#23d1b1" />
+  <text x="450" y="155" text-anchor="middle" fill="#FFFFFF">98% → Split FAC / EC-FAC / Holders</text>
+</svg>
