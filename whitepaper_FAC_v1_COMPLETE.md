@@ -104,7 +104,17 @@ FAC V1.0 integra en una sola app **la renta de artículos, experiencias P2P, eco
 | **DT**          | Recomienda usuarios con link/QR.                    | Cobra **1 % vitalicio, transferible y heredable** sin invertir.     |
 
 > **Ventaja clave:** ningún competidor global une alquilar gear + tours P2P + tokenización ecológica.
+#### 5.1.1 Subperfiles de Agente: Holder y Pickuper
 
+- **Holder**  
+  - Custodia y guarda los artículos cuando el Facilitador no puede atender la entrega o el Voyager sale de urgencia.  
+  - Responsable de la integridad y devolución en tiempo, validado con códigos QR y fotografías in-situ.  
+  - Recibe una comisión extra por servicio de almacenamiento y gestión logística.
+
+- **Pickuper**  
+  - Recoge y entrega artículos en nombre de Facilitadores o Voyagers que no pueden desplazarse.  
+  - Amplía la cobertura de la plataforma, garantizando flexibilidad y conveniencia.  
+  - Cobra una tarifa de servicio adicional, que incentiva a los usuarios a preferir FAC por su logística integradora.
 ### 5.2 TAM – SAM – SOM
 
 ![TAM-SAM-SOM](TAM_SAM_SOM.svg)
