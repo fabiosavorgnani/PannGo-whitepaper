@@ -154,7 +154,7 @@ El sistema de comisiones está diseñado para incentivar la expansión y la perm
 - **1%** al DT que refirió al Voyager.
 - **8%** destinado a los motores de operación y expansión de FAC.
 - **El resto** se distribuye entre:
-  - ECFAC (estructura central de FAC),
+  - ECFAC (estructura comercial de FAC),
   - la empresa FAC,
   - y los holders del token $TRVL.
 
