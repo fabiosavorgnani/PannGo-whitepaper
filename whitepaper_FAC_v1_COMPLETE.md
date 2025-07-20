@@ -193,7 +193,7 @@ Modelo **zero-inventory**: escala sin endeudamiento y activa economía circular.
 ### 7.4 Suministro y Vesting
 
 - Suministro fijo: 100 M $TRVL  
-- Vesting equipo: cliff 6 m + lineal 36 m  
+- Vesting equipo: cliff 12 m + lineal 36 m  
 - Comunidad: 25 % inmediato + 75 % en 18 m
 
 ---
