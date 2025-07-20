@@ -196,6 +196,9 @@ Modelo **zero-inventory**: escala sin endeudamiento y activa economía circular.
 - Vesting equipo: cliff 12 m + lineal 36 m  
 - Comunidad: 25 % inmediato + 75 % en 18 m
 
+### 7.5 Precio de Token
+
+**(aún por definir)**
 ---
 
 ## 8. Roadmap
