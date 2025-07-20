@@ -54,7 +54,7 @@ FAC no solo recorta costos y CO₂: **convierte cada viaje en una cadena de valo
 
 | Nombre                 | Formación                                                   | Trayectoria                                                                                                            | Logros clave                                                                                             |
 |------------------------|-------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
-| **Fabio de Savorgnani**|	•	Ingeniería en Telecomunicaciones CNNCI Cancún (1996 – 2000) <br>	•	Máster en Logística de Procesos Industriales y Operativos
+| **Fabio de Savorgnani**|	•	Ingeniería en Telecomunicaciones CNNCI Cancún (1996 – 2000) 	•	Máster en Logística de Procesos Industriales y Operativos
 Universidad de Cambridge (2012) | 20 años lanzando empresas de tecnología e imagen.  <br>Primer emprendimiento a los **14 años**: pizzería *Don Tino*.  <br>A los **16 años** montó sala de videojuegos “sin consolas”.| • Fundó **TTE** y **G7 Gráfico**.  <br>• Pilotó FAC (Costa Rica & Ruta Tuxtla-Colón) facturando **US $236 k** en 90 días.|
 
 > **Súper-poder del CEO:** Resiliencia extrema y visión para convertir cualquier idea en un negocio rentable.
