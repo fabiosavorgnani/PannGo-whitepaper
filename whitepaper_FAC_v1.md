@@ -1,5 +1,5 @@
 # FAC — Folklore, Adventure & Culture  
-## Whitepaper v1 · MVP (julio 2025)
+## Whitepaper v1  (julio 2025)
 
 ## 1. Síntesis  
 FAC, la plataforma de viajes comprometida con mejorar tu mundo.
