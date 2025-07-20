@@ -7,8 +7,8 @@
 
   <!-- Círculos -->
   <circle cx="150" cy="160" r="100" fill="#E5F5F7" stroke="#004" stroke-width="2"/>
-  <circle cx="350" cy="80" r="100" fill="#B3E0E7" stroke="#002" stroke-width="2"/>
-  <circle cx="550" cy="40" r="100" fill="#80CBD6" stroke="#000" stroke-width="2"/>
+  <circle cx="350" cy="160" r="100" fill="#B3E0E7" stroke="#002" stroke-width="2"/>
+  <circle cx="550" cy="160" r="100" fill="#80CBD6" stroke="#000" stroke-width="2"/>
 
   <!-- Etiquetas dentro de círculos -->
   <!-- TAM -->
