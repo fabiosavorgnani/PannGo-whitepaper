@@ -96,7 +96,7 @@ FAC V1.0 fusiona **renta de artículos, experiencias P2P y economía colaborativ
 |---------|-------|--------|
 | **TAM** | **US $ 679 Bn/año** | UNWTO 2024 + Statista (283 Bn alojamiento P2P + 396 Bn experiencias online) |
 | **SAM** | **US $ 272 Bn** (40 % del TAM) | Porción ya transada vía apps nicho |
-| **SOM** | **US $ 8,1 M GMV** (0,003 % del SAM en 3 años) | Suficiente para break-even y validación global |
+| **SOM** | **US $ 8,1 M GMV** (0,003 % del SAM en 3 años) | Suficiente para break-even y consolidación global |
 
 > FAC captura valor **nuevo**; no disputa cuota existente porque su core no está cubierto por OTAs tradicionales.
 
