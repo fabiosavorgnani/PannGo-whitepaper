@@ -1,37 +1,23 @@
-<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .title { font: bold 16px Mikado, sans-serif; fill: #000; }
-    .label { font: 14px Mikado, sans-serif; fill: #000; }
-    .percent { font: bold 14px Mikado, sans-serif; fill: #000; }
-    .rect { fill-opacity: 0.9; stroke: #333; stroke-width: 1; }
-  </style>
+<text x="50%" y="10%" dominant-baseline="middle" text-anchor="middle" font-size="18" fill="#000">
+1. Reserva del 100%
+</text>
 
-  <!-- Nivel 1 -->
-  <rect x="100" y="40" width="400" height="50" class="rect" fill="#E4B363"/>
-  <text x="300" y="70" text-anchor="middle" class="title">Reserva total</text>
-  <text x="550" y="70" class="percent">100%</text>
+<text x="50%" y="25%" dominant-baseline="middle" text-anchor="middle" font-size="16" fill="#000">
+88% Proveedores (Agentes y Facilitadores)
+</text>
 
-  <!-- Nivel 2 -->
-  <rect x="120" y="110" width="360" height="50" class="rect" fill="#A4D7A7"/>
-  <text x="300" y="140" text-anchor="middle" class="title">Proveedores (Agentes o Facilitadores)</text>
-  <text x="550" y="140" class="percent">88%</text>
+<text x="50%" y="40%" dominant-baseline="middle" text-anchor="middle" font-size="16" fill="#000">
+18% Fee de Plataforma
+</text>
 
-  <!-- Nivel 3 -->
-  <rect x="140" y="180" width="320" height="50" class="rect" fill="#B8C9F1"/>
-  <text x="300" y="210" text-anchor="middle" class="title">Fee de la plataforma FAC</text>
-  <text x="550" y="210" class="percent">12%</text>
+<text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" font-size="16" fill="#000">
+8% Motores Externos (Stripe, pasarelas, gas)
+</text>
 
-  <!-- Nivel 4A -->
-  <rect x="160" y="250" width="280" height="40" class="rect" fill="#FCD5B4"/>
-  <text x="300" y="275" text-anchor="middle" class="label">Motores externos (Publicidad, IA, viajes...)</text>
-  <text x="550" y="275" class="percent">8%</text>
+<text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" font-size="16" fill="#000">
+2% DT (1% ref. proveedor + 1% ref. viajero)
+</text>
 
-  <!-- Nivel 4B -->
-  <rect x="160" y="300" width="280" height="40" class="rect" fill="#F8AFA6"/>
-  <text x="300" y="325" text-anchor="middle" class="label">DT - Ref. proveedor + Ref. cliente</text>
-  <text x="550" y="325" class="percent">2%</text>
-
-  <!-- Nivel 4C -->
-  <rect x="160" y="350" width="280" height="40" class="rect" fill="#C2B2D3"/>
-  <text x="300" y="375" text-anchor="middle" class="label">Comisión neta FAC (ECFAC + holders)</text>
-  <text x="550" y="375" class="percent">
+<text x="50%" y="85%" dominant-baseline="middle" text-anchor="middle" font-size="16" fill="#000">
+8% Comisión neta (ECFAC, FAC, tokenholders)
+</text>
