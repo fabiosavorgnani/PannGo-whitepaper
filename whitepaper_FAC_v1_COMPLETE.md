@@ -246,7 +246,7 @@ FAC se financia sin bursatilización, mediante:
 | Inteligencia artificial | 24,000   |
 | **Total anual**         | **984,000** |
 
-> ##Capital necesario:** 1.3  millones de dólares
+> **Capital necesario:** 1.3  millones de dólares
 
 ---
 
