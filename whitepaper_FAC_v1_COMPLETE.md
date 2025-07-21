@@ -233,7 +233,7 @@ Con este flujo, **$TRVL** deja de ser solo un medio de pago: es **garantía**, *
 
 ### 7.4 Suministro y Vesting
 
-- Suministro fijo: 100 M $TRVL  
+- Suministro fijo: 10 M $TRVL  
 - Vesting equipo: cliff 12 m + lineal 36 m  
 - Comunidad: 25 % inmediato + 75 % en 18 m
 
