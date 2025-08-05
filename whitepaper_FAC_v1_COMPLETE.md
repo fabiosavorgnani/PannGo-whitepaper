@@ -305,9 +305,11 @@ FAC se financia sin bursatilización, mediante:
 | Viajes                  | 200,000  |
 | Subcontrataciones       | 144,000  |
 | Inteligencia artificial | 24,000   |
-| **Total anual**         | **984,000** |
+| Tokenizaci[on           | 14,000   |
+| Pool de liquidez        | 75,000   |
+| **Total anual**         | **1,073,000** |
 
-> **Capital necesario:** 1.3  millones de dólares
+> **Capital necesario:** 1.45  millones de dólares
 
 ---
 
