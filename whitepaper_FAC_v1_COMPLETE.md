@@ -134,7 +134,7 @@ FAC V1.0 integra en una sola app **la renta de artículos, experiencias P2P, eco
 
 - **Renta in-destino** sin pagar equipaje extra.  
 - **Economía colaborativa tokenizada** con 1 % para cualquier referidor.  
-- **Impacto ecológico** medido y recompensado en $TRVL + Token ECO.
+- **Impacto ecológico** medido y recompensado en $TRVL.
 
 ---
 
