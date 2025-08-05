@@ -127,14 +127,12 @@ FAC V1.0 integra en una sola app **la renta de artículos, experiencias P2P, eco
 ### 5.3 Dolor del mercado hoy
 
 1. Sobre-cargos por equipaje y restricciones aéreas.  
-2. Oferta fragmentada en múltiples apps.  
-3. +80 % de beneficio queda en OTAs, poco llega a locales.  
+2. +80 % de beneficio queda en OTAs, poco llega a locales.  
 4. Alta huella de carbono por artículos de un solo uso.
 
 ### 5.4 Cómo FAC lo resuelve
 
 - **Renta in-destino** sin pagar equipaje extra.  
-- **Marketplace unificado**: artículos + experiencias + boletaje.  
 - **Economía colaborativa tokenizada** con 1 % para cualquier referidor.  
 - **Impacto ecológico** medido y recompensado en $TRVL + Token ECO.
 
