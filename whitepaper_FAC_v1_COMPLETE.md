@@ -279,7 +279,7 @@ Para cubrir **1 300 000 USDT** de operaciones y financiar un **pool de liquidez*
 **2028**  
 - Q1: Concesiones a terceros  
 - Q2: Capitalización de futuribles  
-- Q3: Redención internacional + alianzas  
+- Q3: Adopción internacional + alianzas  
 - Q4: Ecosistema autónomo consolidado
 
 ---
