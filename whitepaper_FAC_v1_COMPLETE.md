@@ -199,7 +199,7 @@ Modelo **zero-inventory**: escala sin endeudamiento y activa economía circular.
   - Gobernanza DAO en fases Q1-2027: votar futuribles y parámetros de plataforma.
 
 - **Economía circular**  
-  - El 8 % de cada fee retorna a la tesorería FAC, parte se recompran tokens.  
+  - El .8 % de cada fee retorna a la tesorería FAC, parte se recompran tokens.  
   - Cada acción (reserva, alquiler, recomendación) genera valor y distribuye recompensas.
 
 Con este flujo, **$TRVL** deja de ser solo un medio de pago: es **garantía**, **descuento**, **recompensa**, **herramienta de farming** y **voto de gobernanza**, todo desde el MVP.  
