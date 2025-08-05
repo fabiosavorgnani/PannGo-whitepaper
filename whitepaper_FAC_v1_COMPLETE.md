@@ -178,8 +178,7 @@ Modelo **zero-inventory**: escala sin endeudamiento y activa economía circular.
 **$TRVL** y el staking alimentan toda la economía colaborativa de FAC:
 
 - **Staking de $TRVL**  
-  - Sustituye los depósitos fiat en el **Pool de riesgo/fianzas (CoverFarm)**.  
-  - Desbloquea descuentos directos en fees (–2 %) y acceso a funciones premium.  
+  - Sustituye los depósitos fiat en el **Pool de riesgo/fianzas (CoverFarm)**.   
   - Permite **farming**: aportas liquidez al par USDT/$TRVL y recibes recompensas semanales.
 
 - **Pool de liquidez**  
@@ -189,15 +188,13 @@ Modelo **zero-inventory**: escala sin endeudamiento y activa economía circular.
 - **CoverFarm (Pool de riesgo/fianzas)**  
   - Financia garantías de Agentes y Facilitadores con las primas de staking.  
   - Libera fondos tras validación on-chain (QR + fotos in situ).  
-  - Aplica **slashing** (castigos) si hay incumplimientos.
 
 - **GearNFT & PersonaNFT**  
-  - **GearNFT** (100 $TRVL) omite depósito y certifica el artículo.  
+  - **GearNFT** ("N" $TRVL) omite depósito y certifica el artículo.  
   - **PersonaNFT** (50 $TRVL) crea tu pasaporte reputacional on-chain.  
-  - Ambos fluyen P2P y queman parte de $TRVL (buy-back & burn).
+  - Ambos fluyen P2P 
 
-- **Incentivos adicionales**  
-  - Recompensas en $TRVL por comisiones (1 % Vitalicio DT).  
+- **Incentivos adicionales**   
   - Acceso a mercado secundario de NFTs y subastas exclusivas.  
   - Gobernanza DAO en fases Q1-2027: votar futuribles y parámetros de plataforma.
 
@@ -222,7 +219,7 @@ Con este flujo, **$TRVL** deja de ser solo un medio de pago: es **garantía**, *
 
 | Grupo                 | %   |
 |-----------------------|-----|
-| Comunidad (DT)        | 20% |
+| Comunidad             | 20% |
 | Proveedores pioneros  | 15% |
 | DAO                   | 15% |
 | Tesorería FAC         | 25% |
