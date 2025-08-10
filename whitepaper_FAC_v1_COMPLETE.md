@@ -366,7 +366,7 @@ FAC evolucionará hacia una gobernanza descentralizada mediante una DAO plena. S
 
 ---
 
-### Q2 2028 – DAO plena y primera ola de futuribles
+### Q2 2028 – DAO plena y consolidación de futuribles
 Concesionarios, agentes y holders podrán proponer nuevos futuribles que serán votados por la comunidad. Los más votados se priorizarán para implementación trimestral, apoyados por presupuestos DAO específicos.
 
 ---
