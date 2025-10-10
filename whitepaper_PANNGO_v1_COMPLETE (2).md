@@ -75,7 +75,7 @@ Pann Go no solo recorta costos y CO₂: **convierte cada viaje en una cadena de 
 ** Mascota **
 -  "pangolin
 **Paleta de colores:**  
-- Azul Pann Go: #1E3A8A  
+- Azul : #1E3A8A  
 - Verde ECO: #10B981  
 - Naranja ACT: #F59E0B  
 - Gris Neutro: #6B7280  
