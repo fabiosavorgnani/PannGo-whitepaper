@@ -1,5 +1,5 @@
-# FAC — Folklore, Adventure & Culture  
-## Whitepaper v1 (julio 2025)
+# Pann Go — "travel earn tribe"
+## Whitepaper v1 (OCTUBRE 2025)
 
 ## Índice
 
@@ -20,31 +20,31 @@
 ---
 
 ## 1. Síntesis
-FAC, la plataforma de viajes comprometida con grandes impactos.
+Pann Go, la plataforma de viajes comprometida con grandes impactos.
 
 ## 2. Introducción
 
-FAC (Folklore, Adventure & Culture) es la **primera plataforma turística colaborativa** que convierte artículos infrautilizados y conocimiento local en experiencias **IRREPETIBLES, accesibles, trazables y ecológicas**.  
+Pann Go — "travel earn tribe" es la **primera plataforma turística colaborativa** que convierte artículos infrautilizados y conocimiento local en experiencias **IRREPETIBLES, accesibles, trazables y ecológicas**.  
 Hoy el viajero se encuentra con ofertas abusivas, sobrecargos de equipaje y un mercado donde los grandes conglomerados absorben más del 80 % del beneficio, mientras millones de residentes guardan equipo o talento que termina ocioso o en la basura.
 
 ### Roles que articulan la solución
 - **Voyager** – viajero que consume experiencias y alquila artículos in-situ.  
 - **Agente** – creador local de experiencias auténticas.  
-- **Facilitador** – propietario que renta sus artículos para enriquecer el viaje.  
+- **Pann Goilitador** – propietario que renta sus artículos para enriquecer el viaje.  
 
-FAC redistribuye los ingresos **simplemente recomendando** gracias al rol:
+Pann Go redistribuye los ingresos **simplemente recomendando** gracias al rol:
 - **DT (Dealer Traveler)** – genera comisiones **vitalicias, transferibles y heredables** por cada usuario referido.
 
 ### Web 3.0 desde el día uno
 La confianza se respalda *on-chain* con **PersonaNFT** y **GearNFT**, mientras el token **$TRVL** sustituye los depósitos en garantía mediante un **pool de riesgo descentralizado**.
 
 ### Validación en el mundo real
-Dos pilotos previos — *Costa Rica 2018* y *Ruta Tuxtla-Colón 2024* — comprobaron la tracción del modelo con **US $236 000 facturados en 90 días**, sin inversión publicitaria masiva.
+Dos pilotos previos — *Costa Rica 2018* y *Ruta Tuxtla-Colón 2024* — comprobaron la tracción del modelo con **US $236 000 Pann Goturados en 90 días**, sin inversión publicitaria masiva.
 
 ### Timing perfecto
 El turismo post-pandemia exige sostenibilidad; la tokenización redistribuye riqueza; la adopción cripto crece a raudales. El **V1.0** se lanzará en **Q1 2026** con **9 000 proveedores iniciales** y un EBITDA positivo antes de cerrar el año.  
 
-FAC no solo recorta costos y CO₂: **convierte cada viaje en una cadena de valor circular** donde la riqueza permanece en manos de quienes la generan.
+Pann Go no solo recorta costos y CO₂: **convierte cada viaje en una cadena de valor circular** donde la riqueza permanece en manos de quienes la generan.
 
 ---
 
@@ -54,14 +54,14 @@ FAC no solo recorta costos y CO₂: **convierte cada viaje en una cadena de valo
 
 | Nombre                     | Formación                                                                                                                                                             | Trayectoria                                                                                             | Logros clave                                                                                                                 |
 |----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
-| **Fabio de Savorgnani**   | • Ingeniería en Telecomunicaciones (CNNCI Cancún, 1996–2000)<br><br>• Máster en Logística de Procesos Industriales y Operativos (Cambridge, 2012)<br> | 20 años lanzando empresas de tecnología e imagen.<br>Primer emprendimiento a los **14 años**: pizzería *Don Tino*.<br>A los **16 años** montó sala de videojuegos “sin consolas”. | • Fundó **TTE** y **G7 Gráfico**. Consolidandolas como empresas muy exitosas en sus respectivos rubros<br>• Pilotó FAC (Costa Rica & Ruta Tuxtla-Colón) facturando **US $236 k** en 90 días.           |
+| **Fabio de Savorgnani**   | • Ingeniería en Telecomunicaciones (CNNCI Cancún, 1996–2000)<br><br>• Máster en Logística de Procesos Industriales y Operativos (Cambridge, 2012)<br> | 20 años lanzando empresas de tecnología e imagen.<br>Primer emprendimiento a los **14 años**: pizzería *Don Tino*.<br>A los **16 años** montó sala de videojuegos “sin consolas”. | • Fundó **TTE** y **G7 Gráfico**. Consolidandolas como empresas muy exitosas en sus respectivos rubros<br>• Pilotó Pann Go (Costa Rica & Ruta Tuxtla-Colón) Pann Goturando **US $236 k** en 90 días.           |
 ### 3.2 Core-team
 
 | Nombre                         | Súper-poder                                                                              |
 |--------------------------------|------------------------------------------------------------------------------------------|
 | **Josué González**             | Hipercierre: convierte leads en ventas con velocidad y empatía récord.                   |
 | **Héctor Salinas**             | Ingeniería imposible: diseña hardware, drones e IoT que funcionan en cualquier entorno.   |
-| **Leonardo Villalobos**        | Arquitecto de nubes invulnerables: 99.99 % uptime mientras recorta facturas cloud.        |
+| **Leonardo Villalobos**        | Arquitecto de nubes invulnerables: 99.99 % uptime mientras recorta Pann Goturas cloud.        |
 | **Johnny Miguel Carleo**       | Puente mediático global: media y alianzas que multiplican visibilidad internacional.      |
 | **María Lucia Carrizo**        | Rastreadora de shoppers: identifica patrones de compra y dispara ROAS en multicanal.      |
 | **Gabriel Rodríguez Pastrana** | Narrador visual imparable: convierte conceptos en motion graphics y virales.             |
@@ -72,9 +72,10 @@ FAC no solo recorta costos y CO₂: **convierte cada viaje en una cadena de valo
 ---
 
 ## 4. Identidad de Marca
-
+** Mascota **
+-  "pangolin
 **Paleta de colores:**  
-- Azul FAC: #1E3A8A  
+- Azul Pann Go: #1E3A8A  
 - Verde ECO: #10B981  
 - Naranja ACT: #F59E0B  
 - Gris Neutro: #6B7280  
@@ -91,27 +92,27 @@ FAC no solo recorta costos y CO₂: **convierte cada viaje en una cadena de valo
 
 ### 5.1 La version  1.0 
 
-FAC V1.0 integra en una sola app **la renta de artículos, experiencias P2P, economía colaborativa y un potente sistema de referidos con comisiones vitalicias, transferibles y heredables.**
+Pann Go V1.0 integra en una sola app **la renta de artículos, experiencias P2P, economía colaborativa y un potente sistema de referidos con comisiones vitalicias, transferibles y heredables.**
 
 | Rol             | Acción principal                                    | Beneficio directo                                                   |
 |-----------------|-----------------------------------------------------|---------------------------------------------------------------------|
 | **Voyager**     | Alquila artículos in-situ y reserva experiencias.   | Viaja ligero y accede a actividades auténticas.                    |
 | **Agente**      | Publica itinerarios validados por QR.               | Monetiza su expertise local y gana reputación on-chain.            |
-| **Facilitador** | Renta artículos infrautilizados (dron, camper).     | Convierte trastos en ingresos y fomenta economía circular.         |
+| **Pann Goilitador** | Renta artículos infrautilizados (dron, camper).     | Convierte trastos en ingresos y fomenta economía circular.         |
 | **DT**          | Recomienda usuarios con link/QR.                    | Cobra **1 % vitalicio, transferible y heredable** sin invertir.     |
 
 > **Ventaja clave:** ningún competidor global une alquilar gear + tours P2P + tokenización ecológica.
 #### 5.1.1 Subperfiles de Agente: Holder y Pickuper
 
 - **Holder**  
-  - Custodia y guarda los artículos cuando el Facilitador no puede atender la entrega o el Voyager sale de urgencia.  
+  - Custodia y guarda los artículos cuando el Pann Goilitador no puede atender la entrega o el Voyager sale de urgencia.  
   - Responsable de la integridad y devolución en tiempo, validado con códigos QR y fotografías in-situ.  
   - Recibe una comisión extra por servicio de almacenamiento y gestión logística.
 
 - **Pickuper**  
-  - Recoge y entrega artículos en nombre de Facilitadores o Voyagers que no pueden desplazarse.  
+  - Recoge y entrega artículos en nombre de Pann Goilitadores o Voyagers que no pueden desplazarse.  
   - Amplía la cobertura de la plataforma, garantizando flexibilidad y conveniencia.  
-  - Cobra una tarifa de servicio adicional, que incentiva a los usuarios a preferir FAC por su logística integradora.
+  - Cobra una tarifa de servicio adicional, que incentiva a los usuarios a preferir Pann Go por su logística integradora.
 ### 5.2 TAM – SAM – SOM
 
 ![TAM-SAM-SOM](TAM_SAM_SOM.svg)
@@ -122,7 +123,7 @@ FAC V1.0 integra en una sola app **la renta de artículos, experiencias P2P, eco
 | **SAM**                      | US $272 Bn          | 40 % del TAM (apps nicho)                                        |
 | **SOM**                      | US $8,1 M GMV       | 0,003 % del SAM en 3 años (break-even y consolidación global)   |
 
-> FAC captura **valor nuevo**, no compite por cuota existente en OTAs tradicionales.
+> Pann Go captura **valor nuevo**, no compite por cuota existente en OTAs tradicionales.
 
 ### 5.3 Dolor del mercado hoy
 
@@ -130,7 +131,7 @@ FAC V1.0 integra en una sola app **la renta de artículos, experiencias P2P, eco
 2. +80 % de beneficio queda en OTAs, poco llega a locales.  
 4. Alta huella de carbono por artículos de un solo uso.
 
-### 5.4 Cómo FAC lo resuelve
+### 5.4 Cómo Pann Go lo resuelve
 
 - **Renta in-destino** sin pagar equipaje extra.  
 - **Economía colaborativa tokenizada** con 1 % para cualquier referidor.  
@@ -144,10 +145,10 @@ FAC V1.0 integra en una sola app **la renta de artículos, experiencias P2P, eco
 
 - **Fee total:** 18 %  
   - 8 % motores/pasarela  
-  - 10 % Bruto FAC  
+  - 10 % Bruto Pann Go  
     - 1 % DT (Proveedor)  
     - 1 % DT (Cliente)  
-    - 8 % split ECFAC / FAC / token-holders  
+    - 8 % split ECPann Go / Pann Go / token-holders  
 
 **Ingresos extra:** mint NFT, pool CoverFarm, tokens territoriales CM/CL.
 
@@ -155,7 +156,7 @@ FAC V1.0 integra en una sola app **la renta de artículos, experiencias P2P, eco
 
 - **Voyager:** usuario final.  
 - **Agente:** diseñador de experiencias.  
-- **Facilitador:** propietario de gear.  
+- **Pann Goilitador:** propietario de gear.  
 - **DT:** referidor de usuarios.
 
 ### 6.2 Sin inventario
@@ -164,7 +165,7 @@ Modelo **zero-inventory**: escala sin endeudamiento y activa economía circular.
 
 ### 6.3 Gobernanza progresiva
 
-- **Etapa 1:** control centralizado ECFAC.  
+- **Etapa 1:** control centralizado ECPann Go.  
 - **Etapa 2:** gobernanza compartida.  
 - **Etapa 3:** DAO plena y votaciones comunitarias.
 
@@ -175,7 +176,7 @@ Modelo **zero-inventory**: escala sin endeudamiento y activa economía circular.
 
 ![Tokenomics Diagram](diagramatokenomics.png)
 
-**$TRVL** y el staking alimentan toda la economía colaborativa de FAC:
+**$TRVL** y el staking alimentan toda la economía colaborativa de Pann Go:
 
 - **Staking de $TRVL**  
   - Sustituye los depósitos fiat en el **Pool de riesgo/fianzas (CoverFarm)**.   
@@ -183,10 +184,10 @@ Modelo **zero-inventory**: escala sin endeudamiento y activa economía circular.
 
 - **Pool de liquidez**  
   - Soporta compra/venta de $TRVL en exchanges (USDT – $TRVL).  
-  - Aporta estabilidad al precio y facilita el **DEFI** interno.
+  - Aporta estabilidad al precio y Pann Goilita el **DEFI** interno.
 
 - **CoverFarm (Pool de riesgo/fianzas)**  
-  - Financia garantías de Agentes y Facilitadores con las primas de staking.  
+  - Financia garantías de Agentes y Pann Goilitadores con las primas de staking.  
   - Libera fondos tras validación on-chain (QR + fotos in situ).  
 
 - **GearNFT & PersonaNFT**  
@@ -199,7 +200,7 @@ Modelo **zero-inventory**: escala sin endeudamiento y activa economía circular.
   - Gobernanza DAO en fases Q1-2027: votar futuribles y parámetros de plataforma.
 
 - **Economía circular**  
-  - El .8 % de cada fee retorna a la tesorería FAC, parte se recompran tokens.  
+  - El .8 % de cada fee retorna a la tesorería Pann Go, parte se recompran tokens.  
   - Cada acción (reserva, alquiler, recomendación) genera valor y distribuye recompensas.
 
 Con este flujo, **$TRVL** deja de ser solo un medio de pago: es **garantía**, **descuento**, **recompensa**, **herramienta de farming** y **voto de gobernanza**.  
@@ -222,7 +223,7 @@ Con este flujo, **$TRVL** deja de ser solo un medio de pago: es **garantía**, *
 | Comunidad             | 20% |
 | Proveedores pioneros  | 15% |
 | DAO                   | 15% |
-| Tesorería FAC         | 25% |
+| Tesorería Pann Go         | 25% |
 | Staking & Liquidez    | 15% |
 | Equipo & Asesores     | 10% |
 
@@ -286,7 +287,7 @@ Para cubrir **1 300 000 USDT** de operaciones y financiar un **pool de liquidez*
 
 ## 9. Capitalización y Financiamiento
 
-FAC se financia sin bursatilización, mediante:
+Pann Go se financia sin bursatilización, mediante:
 
 1. **Bootstrapping y preventas** (2025-2026).  
 2. **Token utility** (2026): staking, DAO, descuentos.  
@@ -316,10 +317,10 @@ FAC se financia sin bursatilización, mediante:
 ## 10. Futuribles
 
 
-A partir del 2026, FAC incorporará nuevas funcionalidades y perfiles avanzados que reforzarán su modelo descentralizado, sustentable y colaborativo. Cada "futurible" representa una innovación alineada a la misión de redistribuir el valor turístico hacia quienes realmente lo generan.
+A partir del 2026, Pann Go incorporará nuevas funcionalidades y perfiles avanzados que reforzarán su modelo descentralizado, sustentable y colaborativo. Cada "futurible" representa una innovación alineada a la misión de redistribuir el valor turístico hacia quienes realmente lo generan.
 
 ### Q3 2026 – Asistente de IA personalizado
-FAC integrará un asistente de inteligencia artificial en su interfaz que, con base en las preferencias, conversaciones y comportamientos del usuario (Voyager), sugerirá artículos cercanos en alquiler o actividades posibles con agentes. Esta IA actuará como un **curador inteligente de experiencias**.
+Pann Go integrará un asistente de inteligencia artificial en su interfaz que, con base en las preferencias, conversaciones y comportamientos del usuario (Voyager), sugerirá artículos cercanos en alquiler o actividades posibles con agentes. Esta IA actuará como un **curador inteligente de experiencias**.
 
 ---
 
@@ -329,11 +330,11 @@ Cada artículo en renta se convertirá en un NFT con metadatos clave: dueño, us
 ---
 
 ### Q4 2026 – PersonaNFT: reputación soberana
-Agentes, facilitadores y viajeros contarán con un NFT que almacene su historial dentro de FAC. Opiniones, desempeño, siniestros, puntualidad y más compondrán su “pasaporte reputacional”. Esto fomenta relaciones duraderas y meritocráticas sin dependencia de intermediarios.
+Agentes, Pann Goilitadores y viajeros contarán con un NFT que almacene su historial dentro de Pann Go. Opiniones, desempeño, siniestros, puntualidad y más compondrán su “pasaporte reputacional”. Esto fomenta relaciones duraderas y meritocráticas sin dependencia de intermediarios.
 
 ---
 
-### Q4 2026 – Estaciones FAC
+### Q4 2026 – Estaciones Pann Go
 Microhubs comunitarios equipados con lockers y puntos de carga que actúan como centros logísticos para la entrega y devolución de artículos. Las estaciones podrán operar desde tiendas locales, casas de familia o espacios vacíos. Tokenholders podrán financiar su creación a cambio de recompensas.
 
 ---
@@ -344,25 +345,25 @@ Sistema de matching de experiencias tipo “confesionario”: usuarios comparten
 ---
 
 ### Q2 2027 – Carteleras Locales Dinámicas
-Cada zona tendrá un mural local digital con ranking de artículos, experiencias destacadas, eventos próximos y ofertas. Los agentes y facilitadores compiten sanamente para destacarse en estas vitrinas. Todo es gobernado por DAO zonales.
+Cada zona tendrá un mural local digital con ranking de artículos, experiencias destacadas, eventos próximos y ofertas. Los agentes y Pann Goilitadores compiten sanamente para destacarse en estas vitrinas. Todo es gobernado por DAO zonales.
 
 ---
 
 ### Q3 2027 – Impulsores y Concesionarios
 
-**Impulsor:** Rol estratégico que acelera el crecimiento de FAC en zonas nuevas. No crea contenido ni artículos, sino que capta talento (agentes y facilitadores), verifica estándares y fortalece la base comunitaria. Su impacto se remunera mediante recompensas de DAO.
+**Impulsor:** Rol estratégico que acelera el crecimiento de Pann Go en zonas nuevas. No crea contenido ni artículos, sino que capta talento (agentes y Pann Goilitadores), verifica estándares y fortalece la base comunitaria. Su impacto se remunera mediante recompensas de DAO.
 
-**Concesionario:** Usuario que adopta la expansión regional de FAC en zonas aún no cubiertas. Firma un acuerdo DAO donde asume el desarrollo operativo del territorio a cambio de un % de las comisiones generadas. Puede subcontratar impulsores y moderadores locales.
+**Concesionario:** Usuario que adopta la expansión regional de Pann Go en zonas aún no cubiertas. Firma un acuerdo DAO donde asume el desarrollo operativo del territorio a cambio de un % de las comisiones generadas. Puede subcontratar impulsores y moderadores locales.
 
 ---
 
 ### Q4 2027 – RTsan: protección de artesanos
-NFTs de autenticidad que certifican origen, procedencia y características de piezas artesanales. FAC permitirá que estos artesanos vendan directamente vía marketplaces como Amazon o Mercado Libre, sin intermediarios. Por cada venta el artesano gana regalías automáticas y el comprador posee una prueba digital verificable.
+NFTs de autenticidad que certifican origen, procedencia y características de piezas artesanales. Pann Go permitirá que estos artesanos vendan directamente vía marketplaces como Amazon o Mercado Libre, sin intermediarios. Por cada venta el artesano gana regalías automáticas y el comprador posee una prueba digital verificable.
 
 ---
 
 ### Q1 2028 – DAO plena y primera ola de concesiones
-FAC evolucionará hacia una gobernanza descentralizada mediante una DAO plena. Se habilitarán las primeras concesiones territoriales en 12 zonas piloto, donde las decisiones se toman mediante votación tokenizada. Cada concesionario ejecuta con autonomía y responde ante su comunidad.
+Pann Go evolucionará hacia una gobernanza descentralizada mediante una DAO plena. Se habilitarán las primeras concesiones territoriales en 12 zonas piloto, donde las decisiones se toman mediante votación tokenizada. Cada concesionario ejecuta con autonomía y responde ante su comunidad.
 
 ---
 
@@ -372,7 +373,7 @@ Concesionarios, agentes y holders podrán proponer nuevos futuribles que serán 
 ---
 
 ### Q3 2028 – Roadmap cerrado para V2.0
-Para septiembre de 2028 se tendrá ejecutado el roadmap de todos los futuribles definidos en 2026-2028, lo que marca el paso a las futuras verrsiones de FAC: un ecosistema descentralizado, autosostenible y  con concesiones replicables a escala mundial.
+Para septiembre de 2028 se tendrá ejecutado el roadmap de todos los futuribles definidos en 2026-2028, lo que marca el paso a las futuras verrsiones de Pann Go: un ecosistema descentralizado, autosostenible y  con concesiones replicables a escala mundial.
 ---
 
 
@@ -388,7 +389,7 @@ Para septiembre de 2028 se tendrá ejecutado el roadmap de todos los futuribles 
 
 ## 12. Glosario
 
-- **FAC**: Folklore, Adventure & Culture  
+- **Pann Go**: "travel earn tribe"
 - **Voyager**: Viajero  
 - **Agente**: Experiencias  
 - **DT**: Dealer Traveler  
