@@ -263,10 +263,10 @@ Para cubrir **1 300 000 USDT** de operaciones y financiar un **pool de liquidez*
 ## 8. Roadmap
 
 **2025**  
-- Q4: MVP básico con reservas y validación QR.
+- Q4: v1.0 desarrollo.
 
 **2026**  
-- Q1: Onboarding de 9000 a 14000 usuarios reales  
+- Q1: lanzamiento y Onboarding de 9000 a 14000 usuarios reales  
 - Q2: Smart contracts + primer NFT  
 - Q3: Comunidad de agentes y IA de recomendación  
 - Q4: Onboarding masivo y eventos colaborativos
