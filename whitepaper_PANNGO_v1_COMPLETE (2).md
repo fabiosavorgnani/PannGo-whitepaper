@@ -30,7 +30,7 @@ Hoy el viajero se encuentra con ofertas abusivas, sobrecargos de equipaje y un m
 ### Roles que articulan la solución
 - **Voyager** – viajero que consume experiencias y alquila artículos in-situ.  
 - **Agente** – creador local de experiencias auténticas.  
-- **Pann Goilitador** – propietario que renta sus artículos para enriquecer el viaje.  
+- **Facilitador** – propietario que renta sus artículos para enriquecer el viaje.  
 
 Pann Go redistribuye los ingresos **simplemente recomendando** gracias al rol:
 - **DT (Dealer Traveler)** – genera comisiones **vitalicias, transferibles y heredables** por cada usuario referido.
@@ -72,8 +72,8 @@ Pann Go no solo recorta costos y CO₂: **convierte cada viaje en una cadena de 
 ---
 
 ## 4. Identidad de Marca
-** Mascota **
--  "pangolin
+** Mascota:**
+-  pangolin
 **Paleta de colores:**  
 - Azul : #1E3A8A  
 - Verde ECO: #10B981  
@@ -98,19 +98,19 @@ Pann Go V1.0 integra en una sola app **la renta de artículos, experiencias P2P,
 |-----------------|-----------------------------------------------------|---------------------------------------------------------------------|
 | **Voyager**     | Alquila artículos in-situ y reserva experiencias.   | Viaja ligero y accede a actividades auténticas.                    |
 | **Agente**      | Publica itinerarios validados por QR.               | Monetiza su expertise local y gana reputación on-chain.            |
-| **Pann Goilitador** | Renta artículos infrautilizados (dron, camper).     | Convierte trastos en ingresos y fomenta economía circular.         |
+| **Facilitador** | Renta artículos infrautilizados (dron, camper).     | Convierte trastos en ingresos y fomenta economía circular.         |
 | **DT**          | Recomienda usuarios con link/QR.                    | Cobra **1 % vitalicio, transferible y heredable** sin invertir.     |
 
 > **Ventaja clave:** ningún competidor global une alquilar gear + tours P2P + tokenización ecológica.
 #### 5.1.1 Subperfiles de Agente: Holder y Pickuper
 
 - **Holder**  
-  - Custodia y guarda los artículos cuando el Pann Goilitador no puede atender la entrega o el Voyager sale de urgencia.  
+  - Custodia y guarda los artículos cuando el Facilitador no puede atender la entrega o el Voyager sale de urgencia.  
   - Responsable de la integridad y devolución en tiempo, validado con códigos QR y fotografías in-situ.  
   - Recibe una comisión extra por servicio de almacenamiento y gestión logística.
 
 - **Pickuper**  
-  - Recoge y entrega artículos en nombre de Pann Goilitadores o Voyagers que no pueden desplazarse.  
+  - Recoge y entrega artículos en nombre de Facilitadores o Voyagers que no pueden desplazarse.  
   - Amplía la cobertura de la plataforma, garantizando flexibilidad y conveniencia.  
   - Cobra una tarifa de servicio adicional, que incentiva a los usuarios a preferir Pann Go por su logística integradora.
 ### 5.2 TAM – SAM – SOM
@@ -156,7 +156,7 @@ Pann Go V1.0 integra en una sola app **la renta de artículos, experiencias P2P,
 
 - **Voyager:** usuario final.  
 - **Agente:** diseñador de experiencias.  
-- **Pann Goilitador:** propietario de gear.  
+- **Facilitador:** propietario de gear.  
 - **DT:** referidor de usuarios.
 
 ### 6.2 Sin inventario
@@ -187,7 +187,7 @@ Modelo **zero-inventory**: escala sin endeudamiento y activa economía circular.
   - Aporta estabilidad al precio y Pann Goilita el **DEFI** interno.
 
 - **CoverFarm (Pool de riesgo/fianzas)**  
-  - Financia garantías de Agentes y Pann Goilitadores con las primas de staking.  
+  - Financia garantías de Agentes y Facilitadores con las primas de staking.  
   - Libera fondos tras validación on-chain (QR + fotos in situ).  
 
 - **GearNFT & PersonaNFT**  
@@ -330,7 +330,7 @@ Cada artículo en renta se convertirá en un NFT con metadatos clave: dueño, us
 ---
 
 ### Q4 2026 – PersonaNFT: reputación soberana
-Agentes, Pann Goilitadores y viajeros contarán con un NFT que almacene su historial dentro de Pann Go. Opiniones, desempeño, siniestros, puntualidad y más compondrán su “pasaporte reputacional”. Esto fomenta relaciones duraderas y meritocráticas sin dependencia de intermediarios.
+Agentes, Facilitadores y viajeros contarán con un NFT que almacene su historial dentro de Pann Go. Opiniones, desempeño, siniestros, puntualidad y más compondrán su “pasaporte reputacional”. Esto fomenta relaciones duraderas y meritocráticas sin dependencia de intermediarios.
 
 ---
 
@@ -345,13 +345,13 @@ Sistema de matching de experiencias tipo “confesionario”: usuarios comparten
 ---
 
 ### Q2 2027 – Carteleras Locales Dinámicas
-Cada zona tendrá un mural local digital con ranking de artículos, experiencias destacadas, eventos próximos y ofertas. Los agentes y Pann Goilitadores compiten sanamente para destacarse en estas vitrinas. Todo es gobernado por DAO zonales.
+Cada zona tendrá un mural local digital con ranking de artículos, experiencias destacadas, eventos próximos y ofertas. Los agentes y Facilitadores compiten sanamente para destacarse en estas vitrinas. Todo es gobernado por DAO zonales.
 
 ---
 
 ### Q3 2027 – Impulsores y Concesionarios
 
-**Impulsor:** Rol estratégico que acelera el crecimiento de Pann Go en zonas nuevas. No crea contenido ni artículos, sino que capta talento (agentes y Pann Goilitadores), verifica estándares y fortalece la base comunitaria. Su impacto se remunera mediante recompensas de DAO.
+**Impulsor:** Rol estratégico que acelera el crecimiento de Pann Go en zonas nuevas. No crea contenido ni artículos, sino que capta talento (agentes y Facilitadores), verifica estándares y fortalece la base comunitaria. Su impacto se remunera mediante recompensas de DAO.
 
 **Concesionario:** Usuario que adopta la expansión regional de Pann Go en zonas aún no cubiertas. Firma un acuerdo DAO donde asume el desarrollo operativo del territorio a cambio de un % de las comisiones generadas. Puede subcontratar impulsores y moderadores locales.
 
