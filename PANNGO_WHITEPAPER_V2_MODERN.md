@@ -991,15 +991,7 @@ Beneficios:
 
 | Nombre | Rol | Superpoder |
 |---|---|---|
-| **Josué González** | Sales Lead | Hipercierre: convierte leads en ventas con velocidad récord |
-| **Héctor Salinas** | Hardware Engineer | Ingeniería imposible: diseña drones e IoT para cualquier entorno |
-| **Leonardo Villalobos** | Infrastructure | Arquitecto de nubes invulnerables: 99.99% uptime, costos optimizados |
-| **Johnny Miguel Carleo** | PR & Partnerships | Puente mediático global: multiplica visibilidad internacional |
-| **María Lucia Carrizo** | Growth Marketing | Rastreadora de shoppers: identifica patrones y dispara ROAS |
-| **Gabriel Rodríguez Pastrana** | Creative Director | Narrador visual imparable: convierte conceptos en virales |
-| **Gabriel Moran** | Brand Designer | Alquimista de marcas: destila identidades memorables en 24h |
-| **Mauricio Islas** | Communications | Amplificador de audiencias: comunica a millones en US y LATAM |
-| **Carlos Domínguez Nataren** | Legal & Tax | Escudo fiscal: vehículos legales que minimizan riesgo e impuestos |
+| **Tutellus** | Partnership Web3 y App 2.0 | Líder Web3 desde 2017, con 2M+ usuarios y expertise en tokenización educativa. Como socios, impulsamos tu proyecto Web3 & App 2.0: desarrollo de tokens, smart contracts y DApps. Monetiza conocimiento, accede a ecosistema global y acelera ROI vía educación descentralizada." |
 
 ---
 
