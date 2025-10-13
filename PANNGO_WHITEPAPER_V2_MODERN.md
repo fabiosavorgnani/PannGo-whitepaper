@@ -359,6 +359,7 @@ Conservador al 5-10% conversión = 191K-383K usuarios
 ## Modelo de Negocio
 
 ### 💰 Estructura de comisiones
+![Flujo de comisiones](flow_commission.svg)
 
 Pann Go opera con **dos líneas de negocio** con márgenes diferentes:
 
