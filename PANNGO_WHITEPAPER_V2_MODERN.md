@@ -1201,7 +1201,7 @@ Los **ReferralNFT** representan un derecho contractual a recibir comisiones de u
 
 **Email:** fabio@panngo.com  
 **Website:** https://panngo.com  
-**Whitepaper:** https://github.com/fabiosavorgnani/FAC-Project-FAC-whitepaper  
+**Whitepaper:** https://github.com/fabiosavorgnani/PannGo-whitepaper  
 **Video explicativo:** https://youtu.be/uKRWejXHJQo  
 
 **Telegram:** @panngo  
