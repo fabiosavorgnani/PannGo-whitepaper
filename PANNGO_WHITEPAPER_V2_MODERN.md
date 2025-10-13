@@ -733,6 +733,7 @@ ROI acumulado: +450%-750%
 ---
 
 ## Tokenomics
+![Tokenomics Diagram](diagramatokenomics.png)
 
 ### 🪙 Token $TRVL: Utilidad Real
 
