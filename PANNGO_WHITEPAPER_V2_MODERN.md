@@ -1,7 +1,7 @@
 # Whitepaper "PannGo" 
 ## Travel. Earn. Tribe.
 
-> **es la primera plataforma turística colaborativa que convierte artículos infrautilizados y conocimiento local en experiencias IRREPETIBLES, accesibles, trazables y ecológicas.
+> **Es la primera plataforma turística colaborativa que convierte artículos infrautilizados y conocimiento local en experiencias IRREPETIBLES, accesibles, trazables y ecológicas.
 Hoy el viajero se encuentra con ofertas abusivas, sobrecargos de equipaje y un mercado donde los grandes conglomerados absorben más del 80 % del beneficio, mientras millones de residentes guardan equipo o talento que termina ocioso o en la basura.**
 
 ---
@@ -42,7 +42,7 @@ Hoy el viajero se encuentra con ofertas abusivas, sobrecargos de equipaje y un m
 1. ✅ **Validación real:** 14,353 usuarios y $236K GMV sin publicidad masiva
 2. ✅ **Inventario listo:** 350K experiencias vía API Amadeus/Viator
 3. ✅ **Timing perfecto:** Post-pandemia, demanda sostenibilidad + adopción crypto
-4. ✅ **Equipo probado:** 20+ años experiencia ejecutando startups
+4. ✅ **Equipo probado:** 20+ años experiencia emprendiendo y una aliznza estrategica con una incubadora aceleradora "tutellus"
 
 ---
 
@@ -53,37 +53,36 @@ Hoy el viajero se encuentra con ofertas abusivas, sobrecargos de equipaje y un m
 **El viajero actual enfrenta:**
 
 1. **Sobrecargos y restricciones de equipaje**
-   - Airlines cobran $50-150 por equipaje adicional
-   - Límites de peso obligan a rentar equipos caros en destino
-   - O comprar artículos de un solo uso que terminan en basura
+   - Airlines cobran $50-450 por equipaje adicional
+   - Límites de peso y dimenciones obligan a dimitir de actividades 
+   - Compra de artículos de un solo uso que terminan en basura
 
 2. **Fragmentación del mercado**
-   - Necesitas 4-6 apps diferentes: vuelo, hotel, tours, transporte
-   - Sin integración entre servicios
-   - Experiencia desconectada y frustrante
+   - Sin integración entre servicios o productos
+   - Experiencias desconectadas 
 
 3. **Extractivismo de valor**
-   - OTAs (Booking, Expedia, Airbnb) capturan 20-30% de comisión
-   - Poco valor llega a proveedores locales
+   - OTAs (Booking, Expedia, Airbnb) capturan hasta el 35% de comisión
+   - Poco valor llega a habitantes y proveedores locales
    - Comunidades no se benefician del turismo
 
 4. **Impacto ambiental**
-   - Millones de toneladas de equipaje innecesario
-   - Productos de un solo uso
+   - Millones de toneladas de equipaje trasportado innecesariamente 
+   - Productos de un solo uso terminan en la basura
    - Alta huella de carbono
 
 ### 💡 La oportunidad
 
 Existe un mercado masivo de:
-- **Equipos infrautilizados:** Millones de personas tienen equipo (carpas, drones, bicicletas, cámaras) que usan 2-3 veces/año
-- **Conocimiento local:** Guías, expertos, aventureros sin plataforma para monetizar
+- **Equipos infrautilizados:** Millones de personas tienen equipo (carpas, drones, bicicletas, cámaras, instrumentos) que usan 2-3 veces/año o menos
+- **Conocimiento local:** Guías, expertos, aventureros sin herramientas para monetizar mas.
 - **Viajeros conscientes:** Dispuestos a pagar por experiencias auténticas y sostenibles
 
 ---
 
 ## La Solución
 
-### 🌟 Pann Go: Economía colaborativa tokenizada para viajes
+### 🌟 PannGo: Economía colaborativa tokenizada para viajes "Travel. Earn. Tribe."
 
 **Una plataforma que conecta:**
 
@@ -104,64 +103,65 @@ ALQUILA EQUIPO    RENTA SUS          CREA TOURS      RECOMIENDA
 - Viaja ligero, sin sobrecargos
 
 **Beneficio:**
-- Ahorra en equipaje ($100-300 por viaje)
-- Accede a experiencias únicas no disponibles en OTAs
+- Viaja ligero
+- Ahorra costes en equipaje
+- Accede a experiencias únicas
 - Contribuye a economía circular
 
 #### 2. **Facilitador** (Propietario de equipos)
 **Qué hace:**
-- Publica sus artículos infrautilizados en la plataforma
-- Los renta cuando no los usa
-- Puede contratar Riders para entrega/recolección
+- Publica tus artículos infrautilizados en la plataforma.
+- Réntalos cuando no los uses.
+- Puede contratar Riders para entrega/recolección.
 
 **Beneficio:**
-- Monetiza equipos ociosos (ROI 200-500% anual)
-- Sin intermediarios: se queda con 82% del precio
-- Contribuye a reducir desperdicio
-
+- Rentabilidad en equipos ociosos
+- Asignacion de precios (sin intermediarios)
+- Maximisas usos, disminuyes huella ambiental
+  
 #### 3. **Agente** (Creador de experiencias)
 **Qué hace:**
-- Diseña tours, actividades, rutas
-- Valida experiencias con QR in-situ
-- Puede combinar equipos de Facilitadores
+- Diseña tours, actividades y rutas auténticas.
+- Valida experiencias in-situ.
+- combina equipos de Facilitadores.
 
 **Beneficio:**
-- Monetiza su conocimiento local
-- Construye reputación on-chain
-- Ingreso directo sin OTAs
+- Monetiza tu expertise
+- Construye reputación verificable
+- Maximiza el recuerdo del destino
 
 #### 4. **Rider** (Logística)
 **Qué hace:**
-- Entrega y recoge equipos
-- Facilita movilidad de artículos
-- Amplía cobertura geográfica
+- Entrega y recoge equipos.
+- Facilita movilidad de artículos.
+- Amplía cobertura logistica de la plataforma.
 
 **Beneficio:**
-- Ingreso flexible (como Uber/Rappi)
+- ngreso flexible (como Uber/Rappi)
 - Sin inventario propio
-- Trabaja cuando quiere
+- Trabaja cuando quieras
 
 #### 5. **Holder** (Almacenamiento)
 **Qué hace:**
-- Provee espacio de almacenamiento temporal
-- Custodia equipos cuando Facilitador no puede
-- Valida condición de artículos
-
+- Provee espacio de almacenamiento temporal.
+- Custodia equipos cuando Facilitador no puede.
+- Valida condición de artículos.
+  
 **Beneficio:**
 - Monetiza espacio vacío
-- Ingreso pasivo
-- Sin riesgo de inventario
+- Ingreso pasivo sin esfuerzo
+- Ganancias de inventario
 
 #### 6. **DT - Dealer Traveler** (Referidor)
 **Qué hace:**
-- Comparte link/QR de Pann Go
-- Invita viajeros y proveedores
-- Construye red de usuarios
+- Comparte link/QR de PannGo.
+- Invita viajeros y proveedores.
+- Construye red de usuarios activa.
 
 **Beneficio:**
-- **1% vitalicio de TODAS las transacciones de sus referidos**
-- Comisión transferible (puede venderse)
-- Comisión heredable (pasa a beneficiarios)
+- 1% VITALICIO de TODAS las transacciones de tus referidos
+- Comisión TRANSFERIBLE (puedes venderla)
+- Comisión HEREDABLE (pasa a beneficiarios)
 
 ---
 
