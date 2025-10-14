@@ -699,7 +699,8 @@ ROI anual despues del Año 2: +80%
    - Amadeus / terceros           650k Operaciones por dia
 
 Operaciones por dia en plataformas 3.2M de Operaciones por dia 
-el punto de equilibrio representa el .02% de la cuota de mercado 
+el punto de equilibrio PannGo representa menos del .02% de la cuota de mercado 
+
 Nota:  el inventario de articulos no compite con ninguno de los anteriores 
 
 
