@@ -1,7 +1,8 @@
 # Whitepaper "PannGo" 
 ## Travel. Earn. Tribe.
 
-> **La primera plataforma turística colaborativa que convierte equipos infrautilizados y conocimiento local en experiencias únicas, sostenibles y trazables.**
+> **es la primera plataforma turística colaborativa que convierte artículos infrautilizados y conocimiento local en experiencias IRREPETIBLES, accesibles, trazables y ecológicas.
+Hoy el viajero se encuentra con ofertas abusivas, sobrecargos de equipaje y un mercado donde los grandes conglomerados absorben más del 80 % del beneficio, mientras millones de residentes guardan equipo o talento que termina ocioso o en la basura.**
 
 ---
 
@@ -23,7 +24,7 @@
 
 ## Resumen Ejecutivo
 
-**Pann Go** redistribuye el valor del turismo global hacia comunidades locales mediante una plataforma descentralizada que conecta viajeros con equipos y experiencias auténticas.
+**Pann Go** redistribuye el valor del turismo global hacia comunidades locales mediante una plataforma web 2.0 conecta viajeros con equipos y experiencias auténtica, complementada por un ecosistema web 3.0 descentralizado que agrega valor a nuestros inversionistas y usuarios.
 
 ### 🎯 Tesis de Inversión
 
