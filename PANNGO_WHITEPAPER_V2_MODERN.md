@@ -301,8 +301,8 @@ En lugar de aceptar términos que hubieran diluido excesivamente al equipo funda
 
 | Factor | Piloto | Año 1 V1.0 | Mejora |
 |---|---|---|---|
-| **Equipo en campo** | 3 persona | 3 personas | 3x |
-| **Soporte remoto** | 0 | Sergio + coordinación | +50% |
+| **Equipo en campo** | 1 persona | 3 personas | 3x |
+| **Soporte remoto** | 1 persona | Sergio + coordinación | +50% |
 | **Inventario inicial** | 0 (convencer desde cero) | 350K experiencias API | +40% |
 | **Publicidad** | $0 | $280K dirigida | +30% |
 | **Procesos** | Improvisados | Manual operativo documentado | +20% |
@@ -319,14 +319,14 @@ En su lugar, activa **DTs naturales** presentes en cada destino:
 
 #### DTs naturales por ciudad:
 
-**1. Hostales/Hostels** (20-50 por ciudad)
-- Póster QR permanente en recepción
-- Captación pasiva: 5-10 usuarios/día
-- Win-win: Hostal gana 1% vitalicio de todos sus huéspedes
+**1. Hostales/Hostels** (>20 por ciudad)
+- Póster QR permanente en frontdesk
+- Captación pasiva:  usuarios >1 /día
+- Win-win: Hostal gana 1% vitalicio de todos sus huéspedes 
 
-**2. Mochileros activos** (100-500 por ciudad/mes)
-- Dedican 1 hora/día a captar mientras viajan
-- 2-5 usuarios/día
+**2. Mochileros activos** (>100 por ciudad/mes)
+- Dedican  a captar mientras viajan
+- >1 usuarios/día
 - Ingreso pasivo perpetuo
 
 **3. Comercios locales** (cafés, tours, tiendas)
@@ -340,7 +340,7 @@ En su lugar, activa **DTs naturales** presentes en cada destino:
 #### Ventaja del catálogo API:
 
 Los DTs **NO** llegan a ciudad vacía. Desde día 1 pueden mostrar:
-- "Mira, ya hay 847 experiencias en Medellín"
+- "Mira, ya hay 30 experiencias en este pueblo"
 - "Solo falta que agregues TU equipo/expertise"
 - Reduce fricción de onboarding
 
@@ -351,9 +351,9 @@ Los DTs **NO** llegan a ciudad vacía. Desde día 1 pueden mostrar:
 × 30 hostales promedio
 × 7 usuarios/día promedio
 × 365 días
-= 3,832,500 usuarios potenciales
 
-Conservador al 5-10% conversión = 191K-383K usuarios
+
+Conservador al 5-10% conversión = 38K usuarios
 ```
 
 ---
@@ -363,7 +363,7 @@ Conservador al 5-10% conversión = 191K-383K usuarios
 ### 💰 Estructura de comisiones
 ![Flujo de comisiones](flow_commission.svg)
 
-Pann Go opera con **dos líneas de negocio** con márgenes diferentes:
+PannGo opera con **dos líneas de negocio** con márgenes diferentes:
 
 #### 1. Economía Colaborativa P2P (Core - Mayor margen)
 
@@ -374,15 +374,15 @@ Transacción: $100
     ↓
 Fee total: 18% = $18
     ├─ Motores/Pasarela: 8% = $8
-    └─ Bruto Pann Go: 10% = $10
+    └─ Bruto PannGo: 10% = $10
         ├─ DT Proveedor: 1% = $1 (si aplica)
         ├─ DT Cliente: 1% = $1 (si aplica)  
-        └─ Neto Pann Go: 8-10% = $8-10
+        └─ Neto PannGo: 8-10% = $8-10
 
 Proveedor recibe: $82
 ```
 
-**Margen neto Pann Go:** 8-10% (según si hay DTs)
+**Margen neto PannGo:** 8-10% (según si hay DTs)
 
 #### 2. Experiencias Curadas (Complemento - Menor margen)
 
@@ -394,8 +394,8 @@ Transacción: $100
 Margen wholesale/afiliación: 8% = $8
 
 Cliente paga: $100
-Proveedor API recibe: $92
-Pann Go recibe: $8
+Proveedor API retiene: $92
+PannGo recibe: $6-8
 ```
 
 **Margen neto Pann Go:** 8% fijo
@@ -461,9 +461,9 @@ Margen promedio: 15.1%
 
 ### 🎁 Ingresos adicionales
 
-1. **Mint de NFTs**
-   - PersonaNFT: $5-10 por usuario
-   - GearNFT: $3-5 por artículo
+1. **NFTs**
+   - PersonaNFT: pasaporte del usuario
+   - GearNFT: $3 por artículo
 
 2. **Token Sale**
    - Venta inicial $TRVL
@@ -473,7 +473,7 @@ Margen promedio: 15.1%
    - Fees de transacciones en pool
 
 4. **Concesiones futuras**
-   - Licencias territoriales a operadores locales
+   - Licencias territoriales a operadores locales  CM y CL
 
 ---
 
@@ -563,10 +563,10 @@ Proyectamos múltiplos de eficiencia vs piloto validado (14,353 usuarios en 90 d
 |---|---|---|---|
 | Personas en campo | 1 | 3 | 3x base |
 | Tiempo operativo | 90 días | 365 días | 4x base |
-| Soporte remoto | No | Sergio + 1 | +30% eficiencia |
+| Soporte remoto | 1 sin metodologia | Sergio + metodologia | +60% eficiencia |
 | Publicidad | $0 | $280K | +30% conversión |
 | Inventario API | 0 | 350K | +40% cierre |
-| Destinos | ~35 | 400 | 11.4x cobertura |
+| Destinos | ~35 | >400 | 11.4x cobertura |
 
 **Base teórica:**
 ```
@@ -574,96 +574,85 @@ Proyectamos múltiplos de eficiencia vs piloto validado (14,353 usuarios en 90 d
 ```
 
 **Con mejoras operativas:**
-- Conservador: × 1.3-1.6 = 190K-234K usuarios
-- Moderado: × 2.2 = 308K usuarios
-- Optimista: × 2.5 = 358K usuarios
+- Conservador: × 1.3-1.6 = 1740K-234K usuarios del mes 12 al 24
+
 
 ---
 
 ### 💹 Proyecciones por escenario
 
-#### ESCENARIO 1: CONSERVADOR (1.3x eficiencia)
+#### ESCENARIO 1: CONSERVADOR (baja eficiencia)
 
 **Asume:** Dificultades de coordinación, curva de aprendizaje del equipo, mercados más difíciles que piloto.
 
+
 ```
-Usuarios captados: 190,000
-Activación 30%: 57,000 activos
-Transacciones/usuario: 2.5
+PUNTO DE EQUILIBRIO
+Transacciones/dia: 560
+
 Ticket promedio: $90
 
-GMV: $12,811,111
-Margen 9% (90% API): $1,153,000
-Gastos: $1,073,000
-EBITDA: $80,000 ✅
+Comision neta por operacion: $7
 
-ROI Año 1: +6%
+
 ```
 
-**Mensaje:** Aún con múltiples desafíos operativos, alcanzamos rentabilidad desde Año 1.
+**Mensaje:** Aún con múltiples desafíos operativos, alcanzando esos numeros hay rentabilidad desde Año 2.
 
 ---
 
-#### ESCENARIO 2: MODERADO (1.6x eficiencia)
+#### ESCENARIO 2: MODERADO 
 
 **Asume:** Operación normal con aprendizaje gradual, Sergio funciona moderadamente.
 
 ```
-Usuarios captados: 234,000
-Activación 30%: 70,200 activos
-Transacciones/usuario: 2.5
-Ticket: $90
+Transacciones/dia: 680
 
-GMV: $15,811,111
-Margen 9%: $1,423,000
-Gastos: $1,073,000
-EBITDA: $350,000 ✅
+Ticket promedio: $90
 
-ROI Año 1: +24%
+Comision neta por operacion: $7
+
+ROI anual despues del Año 2: +24%
 ```
 
 **Mensaje:** Con ejecución sólida pero sin excelencia, generamos rentabilidad respetable.
 
 ---
 
-#### ESCENARIO 3: OPTIMISTA MODERADO (2.2x eficiencia)
+#### ESCENARIO 3: OPTIMISTA MODERADO 
 
 **Asume:** Sergio + ads funcionan como esperado, equipo alcanza ritmo productivo en Q2-Q3.
 
 ```
-Usuarios captados: 308,000
-Activación 30%: 92,400 activos
-Transacciones/usuario: 2.5
-Ticket: $90
+Transacciones/dia: 800
 
-GMV: $20,811,111
-Margen 9%: $1,873,000
-Gastos: $1,073,000
-EBITDA: $800,000 ✅
+Ticket promedio: $90
 
-ROI Año 1: +56%
+Comision neta por operacion: $7
+
+ROI anual despues del Año 2: +24%
+
+ROI anual despues del Año 2: +60%
 ```
 
 **Mensaje:** Si ejecutamos según plan, multiplicamos inversión significativamente en 12 meses.
 
 ---
 
-#### ESCENARIO 4: OPTIMISTA (2.5x eficiencia)
+#### ESCENARIO 4: OPTIMISTA 
 
 **Asume:** Todas las piezas funcionan bien, network effects empiezan a activarse, viralidad orgánica.
 
 ```
-Usuarios captados: 358,000
-Activación 30%: 107,400 activos
-Transacciones/usuario: 2.5
-Ticket: $90
+Transacciones/dia: 1010
 
-GMV: $24,144,444
-Margen 9%: $2,173,000
-Gastos: $1,073,000
-EBITDA: $1,100,000 ✅
+Ticket promedio: $90
 
-ROI Año 1: +77%
+Comision neta por operacion: $7
+
+ROI anual despues del Año 2: +24%
+
+ROI anual despues del Año 2: +80%
 ```
 
 **Mensaje:** Upside significativo si el modelo escala mejor de lo proyectado.
@@ -672,12 +661,12 @@ ROI Año 1: +77%
 
 ### 📊 Tabla resumen
 
-| Escenario | Multiplicador | Usuarios | GMV | EBITDA | ROI |
+| Escenario | Multiplicador PE | Usuarios | GMV | EBITDA | ROI |
 |---|---|---|---|---|---|
-| **Conservador** | 1.3x | 190K | $12.8M | $80K | +6% |
-| **Moderado** | 1.6x | 234K | $15.8M | $350K | +24% |
-| **Opt. Moderado** | 2.2x | 308K | $20.8M | $800K | +56% |
-| **Optimista** | 2.5x | 358K | $24.1M | $1.1M | +77% |
+| **Conservador** | 1 | 190K | $18M | $25K | P.E. |
+| **Moderado** | 1.24 | 234K | $22M | $264K | +24% |
+| **Opt. Moderado** | 1.56| 308K | $26M | $566K | +56% |
+| **Optimista** | 1.8| 358K | $33M | $1.1M | +80% |
 
 ---
 
@@ -699,9 +688,23 @@ ROI Año 1: +77%
    - 90% API (8% margen)
    - No proyectamos migración rápida a 18%
 
-4. **Upside ilimitado**
-   - Si logramos 3x-5x eficiencia: EBITDA $2M-4M+
-   - Downside protegido, upside sin techo
+4. **Comparacion con apps del mercado**
+   - PannGo Punto de Equilibrio   560 operaciones por dia
+   - Airb&b hospedajes            1.63M Operaciones por dia
+   - Airbnb experiencias          200K Operaciones por dia
+   - Viator                       120k Operaciones por dia
+   - GetYourGuide                 180k Operaciones por dia
+   - Civitatis                    210k Operaciones por dia
+   - Rezdy                        170k Operaciones por dia
+   - Amadeus / terceros           650k Operaciones por dia
+
+Operaciones por dia en plataformas 3.2M de Operaciones por dia 
+el punto de equilibrio representa el .02% de la cuota de mercado 
+Nota:  el inventario de articulos no compite con ninguno de los anteriores 
+
+
+
+   
 
 ---
 
@@ -746,9 +749,9 @@ ROI acumulado: +450%-750%
 
 1. **Reserva sin efectivo**
    - Pagar alquileres y experiencias en $TRVL
-   - Descuentos 5-10% vs pago fiat
+   - Descuentos en seguros, depositos y fianzas de entre el 5 al 10%
 
-2. **Pool de garantía descentralizado**
+2. **Pool de garantía y riesgo descentralizado**
    - Stake $TRVL en lugar de depósito fiat
    - Liberación automática post-validación on-chain
 
@@ -757,7 +760,7 @@ ROI acumulado: +450%-750%
    - Votación en propuestas DAO
 
 4. **Certificación y reputación**
-   - Mint PersonaNFT y GearNFT
+   - PersonaNFT y GearNFT
    - Staking para reputación aumentada
 
 ---
@@ -1024,7 +1027,7 @@ Beneficios:
     │                 │
 ┌───▼────────────┐  ┌─▼──────────────┐
 │ OPERATING CO:  │  │ DAO GOVERNANCE:│
-│ Arabia Saudita │  │ Wyoming LLC    │
+│                │  │ Wyoming LLC    │
 │ - Operaciones  │  │ - Votaciones   │
 │ - Contratos    │  │ - Tesorería    │
 └────────────────┘  └────────────────┘
@@ -1032,7 +1035,7 @@ Beneficios:
 
 ### 📋 Razones estratégicas:
 
-**Arabia Saudita / UAE:**
+**Sortear a la SEC**
 - ✅ Framework regulatorio crypto-friendly
 - ✅ Cero impuestos corporativos en Free Zones
 - ✅ Proximidad a mercados objetivo (MENA + África)
@@ -1048,7 +1051,6 @@ Beneficios:
 ### 🌍 Restricciones Geográficas
 
 **❌ NO disponible en:**
-- Estados Unidos (ciudadanos y residentes)
 - Países sancionados OFAC (Irán, Corea del Norte, etc.)
 
 **✅ Disponible en:**
@@ -1060,16 +1062,16 @@ Beneficios:
 ### 🔐 Token Sale Compliance
 
 **Reg S (Regulation S):**
-- Venta exclusiva a non-US persons
+- Venta exclusiva a persons
 - Sin registro SEC requerido
 - KYC/AML completo
 - Geo-blocking tecnológico
 
 **¿Por qué es legal?**
-- Operaciones fuera de US
+
 - No targeting US investors
 - Domicilio en jurisdicción crypto-friendly
-- Compliance local (UAE/KSA)
+- Compliance local 
 
 ---
 
@@ -1084,7 +1086,7 @@ Los **ReferralNFT** representan un derecho contractual a recibir comisiones de u
 - Smart contract: Automatiza redistribución
 
 **No es security porque:**
-- Pann Go NO garantiza rendimientos
+- PannGo NO garantiza rendimientos
 - NO fija precios de mercado secundario
 - Solo redirige comisiones al nuevo propietario
 - Operación en jurisdicción no-US
@@ -1134,7 +1136,7 @@ Los **ReferralNFT** representan un derecho contractual a recibir comisiones de u
 
 ### 📊 Comparativa con competidores
 
-| Métrica | Airbnb (IPO) | Uber (IPO) | **Pann Go** |
+| Métrica | Airbnb (IPO) | Uber (IPO) | **PannGo** |
 |---|---|---|---|
 | Años hasta rentabilidad | 12+ | 15+ | **1** |
 | Capital pre-rentabilidad | $6Bn+ | $25Bn+ | **$1.43M** |
@@ -1206,8 +1208,8 @@ Los **ReferralNFT** representan un derecho contractual a recibir comisiones de u
 **Whitepaper:** https://github.com/fabiosavorgnani/PannGo-whitepaper  
 **Video explicativo:** https://youtu.be/uKRWejXHJQo  
 
-**Telegram:** @panngo  
-**Twitter:** @panngo_travel  
+**Telegram:** @panngoapp  
+**Twitter:** @panngoapp
 
 ---
 
@@ -1267,13 +1269,11 @@ Los **ReferralNFT** representan un derecho contractual a recibir comisiones de u
 
 Este documento no constituye una oferta de valores ni una solicitud de inversión en jurisdicciones donde esto requiera registro. Las proyecciones financieras son estimaciones basadas en asunciones que pueden variar. Inversores deben realizar su propia due diligence.
 
-**Jurisdicción:** UAE / Arabia Saudita  
-**Estructura:** Holding UAE + Operating KSA + DAO Wyoming  
-**Compliance:** Reg S (no US persons)  
+
 
 ---
 
-**Última actualización:** Octubre 2025  
+**Última actualización:** 14 Octubre 2025  
 **Versión:** 2.0  
 **Confidencial:** Para inversionistas calificados únicamente  
 
