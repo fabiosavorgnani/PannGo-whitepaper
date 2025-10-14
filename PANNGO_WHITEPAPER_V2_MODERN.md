@@ -1,4 +1,4 @@
-# Pann Go Whitepaper v2.0
+# Whitepaper "PannGo" 
 ## Travel. Earn. Tribe.
 
 > **La primera plataforma turística colaborativa que convierte equipos infrautilizados y conocimiento local en experiencias únicas, sostenibles y trazables.**
