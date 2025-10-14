@@ -168,15 +168,15 @@ ALQUILA EQUIPO    RENTA SUS          CREA TOURS      RECOMIENDA
 ### 🔗 Ventaja competitiva: Multi-rol
 
 **Único en la industria:**
-- Mismo usuario puede ser Voyager + Facilitador + DT simultáneamente
-- Un mochilero puede:
-  1. Alquilar una bicicleta (Voyager)
-  2. Rentar su dron (Facilitador)
-  3. Referir el hostal donde se hospeda (DT → gana 1% de todos los huéspedes)
+- Un mismo usuario puede ser Voyager + Facilitador + DT simultáneamente.
+
+- Un mochilero puede alquilar una bicicleta,
+- poner su dron en renta,
+- Referir viajeros en el hostal donde se hospeda
+(ganando 1% de todos los viajes de los huéspedes).
 
 **Resultado:**
 - Mayor engagement
-- LTV 3-5x vs competidores
 - Network effects exponenciales
 
 ---
@@ -201,6 +201,7 @@ Migración gradual: API (8% margen) → Local (18% margen)
 
 **Ventaja:**
 - Resuelve "chicken & egg" de marketplaces
+- Tenemos Oferta para disminuir la recistencia de adopcion por parte de los Facilitadores
 - DTs no llegan a ciudad vacía
 - Viajeros encuentran opciones desde día 1
 - Supply local se suma a inventario existente
@@ -220,7 +221,7 @@ Migración gradual: API (8% margen) → Local (18% margen)
 **Oportunidad real:**
 - Alquiler P2P de equipos: ~$10-15 Bn
 - Experiencias locales: ~$20-30 Bn
-- **Pann Go captura valor NUEVO, no compite por cuota existente**
+- **PannGo captura valor NUEVO, no compite por cuota existente**
 
 ---
 
@@ -238,7 +239,7 @@ Migración gradual: API (8% margen) → Local (18% margen)
 | **Transacciones totales** | 2,752 |
 | **GMV** | $236,000 USD |
 | **Ticket promedio** | $85.76 |
-| **Inversión** | $120,000+ |
+| **Inversión** | $120,000+ en prestamo|
 
 #### Composición de usuarios
 
@@ -265,7 +266,7 @@ Viajando físicamente Tuxtla → Colón
     ↓
 Captando usuarios cara a cara
     ↓
-Sin equipo, sin ads, sin procesos
+Sin ads
     ↓
 = 14,353 usuarios, $236K GMV
 ```
@@ -288,19 +289,19 @@ En lugar de aceptar términos que hubieran diluido excesivamente al equipo funda
 
 ---
 
-### 🎯 Del piloto artesanal a la máquina empresarial
+### 🎯 Del piloto artesanal a la estructura empresarial
 
 #### Lo que el piloto demostró:
 
-> Si **1 persona**, sin estructura empresarial, sin equipo, sin marketing, generó $236K GMV...
+> Si **1 persona**, sin estructura empresarial, sin marketing, generó $236K GMV...
 > 
-> ...una operación profesional con equipo, procesos, marketing y tecnología puede **multiplicar estos resultados exponencialmente.**
+> ...una operación profesional con equipo, procesos, marketing y tecnología puede **multiplicar estos resultados .**
 
 #### Ventajas competitivas vs piloto:
 
 | Factor | Piloto | Año 1 V1.0 | Mejora |
 |---|---|---|---|
-| **Equipo en campo** | 1 persona | 3 personas | 3x |
+| **Equipo en campo** | 3 persona | 3 personas | 3x |
 | **Soporte remoto** | 0 | Sergio + coordinación | +50% |
 | **Inventario inicial** | 0 (convencer desde cero) | 350K experiencias API | +40% |
 | **Publicidad** | $0 | $280K dirigida | +30% |
