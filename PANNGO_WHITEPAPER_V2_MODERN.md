@@ -630,8 +630,6 @@ Ticket promedio: $90
 
 Comision neta por operacion: $7
 
-ROI anual despues del Año 2: +24%
-
 ROI anual despues del Año 2: +60%
 ```
 
@@ -649,8 +647,6 @@ Transacciones/dia: 1010
 Ticket promedio: $90
 
 Comision neta por operacion: $7
-
-ROI anual despues del Año 2: +24%
 
 ROI anual despues del Año 2: +80%
 ```
@@ -709,9 +705,9 @@ Nota:  el inventario de articulos no compite con ninguno de los anteriores
 
 ---
 
-### 📈 Proyección Años 2-3
+### 📈 Proyección Años 4-5
 
-#### Año 2: Transición y Aceleración
+#### Año 4: Transición y Aceleración
 
 ```
 Usuarios acumulados: 500,000-700,000
@@ -720,11 +716,11 @@ Transacciones/usuario: 3.2
 Mix: 50% API + 50% Local (margen 13%)
 
 GMV: $35-50M
-EBITDA: $2.5-4M
+EBITDA: $4.5-5M
 ROI acumulado: +175%-280%
 ```
 
-#### Año 3: Dominancia Local
+#### Año 5: Dominancia 
 
 ```
 Usuarios acumulados: 1,000,000-1,500,000
